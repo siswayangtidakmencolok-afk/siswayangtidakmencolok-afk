@@ -1,8 +1,9 @@
 ## Saya fhazwan seorang developer fullstack
 
+![siswayangtidakmencolok-afk](img/github-header-banner.png))
 ![siswayangtidakmencolok-afk](img/Gambar%20png.jpg)
-
-![siswayangtidakmencolok-afk](img/github-header-banner.png)
+![siswayangtidakmencolok-afk](img/b097d3d520be028d40386cf3121360d6.jpg)
+![siswayangtidakmencolok-afk](img/06fbaa15b937d9f1780d59fde5e2711a.jpg)
 
 <!--
 **siswayangtidakmencolok-afk/siswayangtidakmencolok-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,7 +40,7 @@ Here are some ideas to get you started:
 #### **markup language**
 [![My Skills](https://skillicons.dev/icons?i=css,html,=light)](https://skillicons.dev)
 
-##### **Social Media**
+#####         **Social Media**
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=instagram,github,twitter," />
