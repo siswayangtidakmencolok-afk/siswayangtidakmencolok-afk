@@ -50,3 +50,5 @@ Here are some ideas to get you started:
 ##### My Github Stats
 
 ![siswayangtidakmencolok-afk](https://github-readme-stats.vercel.app/api?username=siswayangtidakmencolok-afk&show_icons=true&theme=dark&locale=id)
+
+<img src="https://raw.githubusercontent.com/fhazwan/fhazwan/output/snake.svg" alt="Snake animation" />
