@@ -1,6 +1,6 @@
 ## Saya fhazwan seorang developer fullstack
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&weight=500&size=35&duration=4000&pause=1000&color=EAFF2A&background=000000&vCenter=true&multiline=true&width=1000&height=100&lines=selamat+datang+di+profil+saya;FHAZWAN+-software+enginer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&weight=600&size=35&duration=4000&pause=500&color=212121&background=C0C0C0&vCenter=true&multiline=true&width=1000&height=100&lines=selamat+datang+di+profil+saya;FHAZWAN+-software+enginer)](https://git.io/typing-svg)
 
 ![siswayangtidakmencolok-afk](img/github-header-banner.png)
 Hallo! Nama saya Fhazwan, seorang pelajar yang tinggal di Jakarta 🏙️. Saya memiliki berbagai hobi yang saya sukai, mulai dari **menggambar 🎨**, **coding** 💻, **membaca manga** 📚, **bermain game** 🎮, hingga **berpergian untuk mengeksplorasi tempat-tempat baru** 🗺️.<br>
@@ -12,6 +12,10 @@ Saya membuat profil ini untuk semua orang yang berkunjung dan ingin melihat perj
 ***Database Management 🗄️ - Mengelola dan mengorganisir data dengan efisien<br>***
 <br>
 <sup>Terima kasih sudah mampir! Jangan ragu untuk melihat-lihat project saya dan mari kita belajar bersama! 🚀</sup>
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+</div>
 
 ## 🌐 Socials:
 ![siswayangtidakmencolok-afk](img/Gambar%20png.jpg)
@@ -56,12 +60,16 @@ Here are some ideas to get you started:
 
 
 
-#### **markup language**
-[![My Skills](https://skillicons.dev/icons?i=css,html,=light)](https://skillicons.dev)
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/www.facebook.com/somethingnavy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/www.instagram.com/f.zvvn_) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/FhazwanRamadhan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/www.stackoverflow.com/zxyninety) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@www.tiktok.com/eksrovertselalu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/www.x.com/zxyninety1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siswayangtidakmencolook@gmail.com) 
-*****
+
+<div align="center">
+  <img src="https://count.getloli.com/@:fhazwan?theme=minecraft&padding=7&scale=2&align=center&pixelated=1&darkmode=auto"  />
+</div>
+____
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=104&section=footer&reversal=false&fontSize=76&fontColor=ADD8E6&fontAlign=50&fontAlignY=50&stroke=-&descSize=4&descAlign=16&descAlignY=133&theme=tokyonight"  />
+</div>
 
 # 📊 GitHub Stats:
 ![siswayangtidakmencolok-afk](https://github-readme-stats.vercel.app/api?username=siswayangtidakmencolok-afk&show_icons=true&theme=dark&locale=id)<br/>
