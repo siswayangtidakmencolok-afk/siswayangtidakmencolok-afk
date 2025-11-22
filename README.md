@@ -1,5 +1,8 @@
 ## Saya fhazwan seorang developer fullstack
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&weight=500&size=35&duration=4000&pause=1000&color=EAFF2A&background=000000&vCenter=true&multiline=true&width=1000&height=100&lines=selamat+datang+di+profil+saya;FHAZWAN+-software+enginer)](https://git.io/typing-svg)
+
+![siswayangtidakmencolok-afk](img/github-header-banner.png)
 Hallo! Nama saya Fhazwan, seorang pelajar yang tinggal di Jakarta 🏙️. Saya memiliki berbagai hobi yang saya sukai, mulai dari **menggambar 🎨**, **coding** 💻, **membaca manga** 📚, **bermain game** 🎮, hingga **berpergian untuk mengeksplorasi tempat-tempat baru** 🗺️.<br>
 Saya membuat profil ini untuk semua orang yang berkunjung dan ingin melihat perjalanan saya di dunia pemrograman. *Saya orangnya cenderung dingin, tapi memiliki rasa ingin tahu yang sangat tinggi terhadap hal-hal baru 🔍*. Itulah yang membawa saya masuk ke jurusan RPL—untuk <ins>menambah wawasan tentang pemrograman dan mengasah berbagai keahlian yang saya minati.
 
@@ -10,8 +13,7 @@ Saya membuat profil ini untuk semua orang yang berkunjung dan ingin melihat perj
 <br>
 <sup>Terima kasih sudah mampir! Jangan ragu untuk melihat-lihat project saya dan mari kita belajar bersama! 🚀</sup>
 
-
-![siswayangtidakmencolok-afk](img/github-header-banner.png))
+## 🌐 Socials:
 ![siswayangtidakmencolok-afk](img/Gambar%20png.jpg)
 ![siswayangtidakmencolok-afk](img/b097d3d520be028d40386cf3121360d6.jpg)
 ![siswayangtidakmencolok-afk](img/06fbaa15b937d9f1780d59fde5e2711a.jpg)
