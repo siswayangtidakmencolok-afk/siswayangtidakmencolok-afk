@@ -11,7 +11,6 @@ Saya membuat profil ini untuk semua orang yang berkunjung dan ingin melihat perj
 <sup>Terima kasih sudah mampir! Jangan ragu untuk melihat-lihat project saya dan mari kita belajar bersama! 🚀</sup>
 
 
-## 🌐 Socials:
 ![siswayangtidakmencolok-afk](img/github-header-banner.png))
 ![siswayangtidakmencolok-afk](img/Gambar%20png.jpg)
 ![siswayangtidakmencolok-afk](img/b097d3d520be028d40386cf3121360d6.jpg)
