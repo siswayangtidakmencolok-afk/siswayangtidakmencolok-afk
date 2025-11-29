@@ -1,4 +1,4 @@
-## Saya fhazwan seorang developer fullstack
+## **Saya fhazwan seorang programer fullstack**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&weight=600&size=35&duration=4000&pause=500&color=212121&background=C0C0C0&vCenter=true&multiline=true&width=1000&height=100&lines=selamat+datang+di+profil+saya;FHAZWAN+-software+enginer)](https://git.io/typing-svg)
 
