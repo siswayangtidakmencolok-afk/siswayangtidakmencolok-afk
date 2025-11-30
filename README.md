@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&weight=600&size=35&duration=4000&pause=500&color=212121&background=C0C0C0&vCenter=true&multiline=true&width=1000&height=100&lines=selamat+datang+di+profil+saya;FHAZWAN+-software+enginer)](https://git.io/typing-svg)
 
 ![siswayangtidakmencolok-afk](img/github-header-banner.png)
-Hallo! Nama saya Fhazwan, seorang pelajar yang tinggal di Jakarta 🏙️. Saya memiliki berbagai hobi yang saya sukai, mulai dari **menggambar 🎨**, **coding** 💻, **membaca manga** 📚, **bermain game** 🎮, hingga **berpergian untuk mengeksplorasi tempat-tempat baru** 🗺️.<br>
+Hallo! Nama saya _Fhazwan Athar Ramadhan_, seorang pelajar yang tinggal di Jakarta 🏙️. Saya memiliki berbagai hobi yang saya sukai, mulai dari **menggambar 🎨**, **coding** 💻, **membaca manga** 📚, **bermain game** 🎮, hingga **berpergian untuk mengeksplorasi tempat-tempat baru** 🗺️.<br>
 Saya membuat profil ini untuk semua orang yang berkunjung dan ingin melihat perjalanan saya di dunia pemrograman. *Saya orangnya cenderung dingin, tapi memiliki rasa ingin tahu yang sangat tinggi terhadap hal-hal baru 🔍*. Itulah yang membawa saya masuk ke jurusan RPL—untuk <ins>menambah wawasan tentang pemrograman dan mengasah berbagai keahlian yang saya minati.
 
 ##### **Skills & Interests**
