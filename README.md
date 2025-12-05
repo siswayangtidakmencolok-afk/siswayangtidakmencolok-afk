@@ -72,10 +72,22 @@ ____
 </div>
 
 # 📊 GitHub Stats:
-![siswayangtidakmencolok-afk](https://github-readme-stats.vercel.app/api?username=siswayangtidakmencolok-afk&show_icons=true&theme=dark&locale=id)<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svghttps://www.youtube.com/@Wanhaart" width="161" height="42" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="161" height="42" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="161" height="42" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="161" height="42" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="161" height="42" alt="instagram logo"  />
+</div>
 
-![](https://nirzak-streak-stats.vercel.app/?user=siswayangtidakmencolok-afk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=siswayangtidakmencolok-afk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siswayangtidakmencolok-afk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=siswayangtidakmencolok-afk&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siswayangtidakmencolok-afk&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
 
 
 
