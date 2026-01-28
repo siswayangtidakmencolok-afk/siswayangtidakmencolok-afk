@@ -88,6 +88,16 @@ ____
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=siswayangtidakmencolok-afk&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+<div align="center">
+  <a href="https://open.spotify.com/user/31dibr75l6es4qzurcofonvttdlm?si=15d3e7c4648c4fd1">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Zxyninety&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+
+
 
 
 
