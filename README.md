@@ -92,7 +92,7 @@ ____
   <a href="https://paypal.me/FhazwanAthar?locale.x=id_ID&country.x=ID" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
   </a>
-  <a href="https://whatsapp.com/0895403891152" target="_blank">
+  <a href="https://whatsapp.com/+62895403891152" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
   <a href="https://gitlab.com/siswayangtidakmencolok" target="_blank">
@@ -104,7 +104,7 @@ ____
   <a href="https://www.facebook.com/share/1QzXJnQtXt/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://gmail.com/siswayangtidakmencolok" target="_blank">
+  <a href="https://mail.google.com/mail/mu/mp/855/#tl/priority/%5Esmartlabel_personal" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://stackoverflow.com/users/31517680/zxyninety" target="_blank">
