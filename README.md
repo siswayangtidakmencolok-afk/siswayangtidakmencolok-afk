@@ -1,10 +1,36 @@
-## **Saya fhazwan seorang programer fullstack**
+<!-- Version 2: All-in-one dengan spacing lebih rapat -->
+<div align="center">
+  <!-- Wave Header -->
+  <img width="100%" height="250" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Selamat%20Datang%20di%20Akun%20Fhazwan&fontSize=50&fontColor=FFFFFF&fontAlignY=28&animation=twinkling&desc=DEVELOPER%20%7C%20PROBLEM%20SOLVER&descSize=20&descAlignY=48&color=0:1a1a1a,50:2d3748,100:4a5568" />
+  
+  <!-- Teks Tengah Animated -->
+  <div style="margin-top: -20px; margin-bottom: 10px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00CFFF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=%F0%9F%92%BB+Coding+%7C+Learning+%7C+Building;%F0%9F%9A%80+Passionate+Developer;%E2%9C%A8+Turning+Ideas+into+Reality" alt="Animated Center Text" />
+  </div>
+  
+  <!-- Border Pemisah -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&weight=600&size=35&duration=4000&pause=500&color=212121&background=C0C0C0&vCenter=true&multiline=true&width=1000&height=100&lines=selamat+datang+di+profil+saya;FHAZWAN+-software+enginer)](https://git.io/typing-svg)
+<br/>
+
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Halo%2C+Saya+Fhazwan;%F0%9F%92%BB+Developer+%7C+Student;%F0%9F%9A%80+Membangun+Masa+Depan+dengan+Kode" alt="Typing Animation" />
+</div>
+<br/>
+
+
+---
+
+<!-- OPTION 2: Hitam + Text Putih (High Contrast) -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=firacode&weight=600&size=35&duration=4000&pause=500&color=FFFFFF&background=000000&vCenter=true&multiline=true&width=1000&height=100&lines=Silahkan+Melihat+lihat+Profil+Saya;Fhazz+-+Software+Engineer" alt="Typing SVG" />
+  </a>
+</div>
 
 ![siswayangtidakmencolok-afk](img/github-header-banner.png)
-Hallo! Nama saya _Fhazwan Athar Ramadhan_, seorang pelajar yang tinggal di Jakarta 🏙️. Saya memiliki berbagai hobi yang saya sukai, mulai dari **menggambar 🎨**, **coding** 💻, **membaca manga** 📚, **bermain game** 🎮, hingga **berpergian untuk mengeksplorasi tempat-tempat baru** 🗺️.<br>
-Saya membuat profil ini untuk semua orang yang berkunjung dan ingin melihat perjalanan saya di dunia pemrograman. *Saya orangnya cenderung dingin, tapi memiliki rasa ingin tahu yang sangat tinggi terhadap hal-hal baru 🔍*. Itulah yang membawa saya masuk ke jurusan RPL—untuk <ins>menambah wawasan tentang pemrograman dan mengasah berbagai keahlian yang saya minati.
 
 ##### **Skills & Interests**
 ***<br>Cyber Security 🔐 - Melindungi sistem dan data dari ancaman<br>***
@@ -22,7 +48,7 @@ Saya membuat profil ini untuk semua orang yang berkunjung dan ingin melihat perj
 ![siswayangtidakmencolok-afk](img/b097d3d520be028d40386cf3121360d6.jpg)
 ![siswayangtidakmencolok-afk](img/06fbaa15b937d9f1780d59fde5e2711a.jpg)
 
-<!--
+<!-
 **siswayangtidakmencolok-afk/siswayangtidakmencolok-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
