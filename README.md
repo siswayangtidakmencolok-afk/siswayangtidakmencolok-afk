@@ -21,7 +21,6 @@
 <br/>
 
 
----
 
 <!-- OPTION 2: Hitam + Text Putih (High Contrast) -->
 <div align="center">
@@ -48,7 +47,7 @@
 ![siswayangtidakmencolok-afk](img/b097d3d520be028d40386cf3121360d6.jpg)
 ![siswayangtidakmencolok-afk](img/06fbaa15b937d9f1780d59fde5e2711a.jpg)
 
-<!-
+<!--
 **siswayangtidakmencolok-afk/siswayangtidakmencolok-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
