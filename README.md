@@ -157,6 +157,8 @@ ____
 ###
 
 # 📊 GitHub Stats:
+ <!-- Border Pemisah -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siswayangtidakmencolok-afk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=siswayangtidakmencolok-afk&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
