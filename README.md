@@ -43,9 +43,11 @@
 </div>
 
 ## 🌐 Socials:
-![siswayangtidakmencolok-afk](img/Gambar%20png.jpg)
-![siswayangtidakmencolok-afk](img/b097d3d520be028d40386cf3121360d6.jpg)
-![siswayangtidakmencolok-afk](img/06fbaa15b937d9f1780d59fde5e2711a.jpg)
+<div align="center">
+  <img src="img/Gambar%20png_cropped.jpg" alt="Image 1" width="400" />
+  <img src="img/b097d3d520be028d40386cf3121360d6_cropped.jpg" alt="Image 2" width="400" />
+  <img src="img/06fbaa15b937d9f1780d59fde5e2711a_cropped.jpg" alt="Image 3" width="400" />
+</div>
 
 <!--
 **siswayangtidakmencolok-afk/siswayangtidakmencolok-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
