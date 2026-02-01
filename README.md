@@ -44,7 +44,7 @@
 
 ## 🌐 Socials:
 <div align="center">
-  <img src="img/slideshow.gif" alt="Slideshow" width="600" />
+  <img src="img/slideshow.gif" alt="Slideshow" width="250" />
 </div>
 <div align="center">
   <img src="img/Gambar%20png_cropped.jpg" alt="Image 1" width="190" />
@@ -135,7 +135,7 @@ ____
   <a href="https://t.me/Art_zwn" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="105" height="25" alt="telegram logo"  />
   </a>
-  <a href="www.linkedin.com/in/ fhazwan-athar-ramadhan-90010a3a9" target="_blank">
+  <a href="www.linkedin.com/in/fhazwan26092008" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="105" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/channels/@zxyninety" target="_blank">
