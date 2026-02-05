@@ -30,6 +30,13 @@
 </div>
 
 ![siswayangtidakmencolok-afk](img/github-header-banner.png)
+<!-- Profile Stats Bar -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=siswayangtidakmencolok-afk&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/siswayangtidakmencolok-afk?style=for-the-badge&color=blue&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/siswayangtidakmencolok-afk?style=for-the-badge&color=yellow&label=TOTAL+STARS" />
+</div>
+<br/>
 
 ##### **Skills & Interests**
 ***<br>Cyber Security 🔐 - Melindungi sistem dan data dari ancaman<br>***
@@ -156,10 +163,32 @@ ____
 ###
 
 # 📊 GitHub Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siswayangtidakmencolok-afk&theme=dracula" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=siswayangtidakmencolok-afk&theme=dracula" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=siswayangtidakmencolok-afk&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+<!-- Medium Articles Section -->
+<div align="center">
+  
+  #### 📝 Latest Medium Biografiest
+  
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@siswayangtidakmencolok/0">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@siswayangtidakmencolok/0" alt="Recent Article 1" width="45%" />
+  </a>
+</div>
+
+<br/>
+
+##### 📝 Latest Projects
+
+<div align="center">
+  <a href="https://github.com/siswayangtidakmencolok-afk/AnimeAPP-AnimeHub-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siswayangtidakmencolok-afk&repo=project-1&theme=radical" />
+  </a>
 </div>
 
 ### ✍️ Random Dev Quote
