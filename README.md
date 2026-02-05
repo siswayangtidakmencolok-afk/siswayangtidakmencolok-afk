@@ -163,7 +163,7 @@ ____
 ###
 
 # 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![siswayangtidakmencolok-afk's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siswayangtidakmencolok-afk&theme=dracula" height="150" alt="languages graph" /> <br>
