@@ -154,6 +154,19 @@ ____
 
 ###
 
+##### 🎵 Current Favorites
+
+<div align="center">
+
+| # | Track | Artist | Spotify |
+|---|-------|--------|---------|
+| 1 | We Don't Talk Anymore | Charlie Puth ft. Selena Gomez | [![Spotify](https://img.shields.io/badge/▶️-Listen-1DB954?style=flat-square&logo=spotify)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) |
+| 2 | COLLIDE | JUstin Skye | [![Spotify](https://img.shields.io/badge/▶️-Listen-1DB954?style=flat-square&logo=spotify)](https://open.spotify.com/intl-id/track/22I3h5AOENlH4CqXJsEbFR?si=d208429b6e714a74) |
+| 3 | Love Not Me | Ravyn Lenae | [![Spotify](https://img.shields.io/badge/▶️-Listen-1DB954?style=flat-square&logo=spotify)](https://open.spotify.com/intl-id/track/1UNEuG9DYOWiikf00ayr52?si=d542dc4237f94d7f) |
+| 4 | Cook Pardon | Lvbel C5 | [![Spotify](https://img.shields.io/badge/▶️-Listen-1DB954?style=flat-square&logo=spotify)](https://open.spotify.com/intl-id/track/0P45YtqtAT6AkNDDX1lySE?si=cb19fbbbac444202) |
+
+</div>
+
 <div align="center">
   <a href="https://open.spotify.com/user/31dibr75l6es4qzurcofonvttdlm?si=15d3e7c4648c4fd1">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=Zxyninety&count=5" alt="Spotify recently played"  />
