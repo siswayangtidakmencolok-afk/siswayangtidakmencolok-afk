@@ -21,6 +21,7 @@
 <br/>
 
 
+![siswayangtidakmencolok-afk](img/github-header-banner.png)
 
 <!-- OPTION 2: Hitam + Text Putih (High Contrast) -->
 <div align="center">
@@ -29,7 +30,6 @@
   </a>
 </div>
 
-![siswayangtidakmencolok-afk](img/github-header-banner.png)
 <!-- Profile Stats Bar -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=siswayangtidakmencolok-afk&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
@@ -43,23 +43,14 @@
 ***Front-End Development 🌐 - Membuat tampilan web yang menarik dan responsif<br>***
 ***Database Management 🗄️ - Mengelola dan mengorganisir data dengan efisien<br>***
 <br>
-<sup>Terima kasih sudah mampir! Jangan ragu untuk melihat-lihat project saya dan mari kita belajar bersama! 🚀</sup>
 
+
+<!--
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
 </div>
 
-## 🌐 Socials:
-<div align="center">
-  <img src="img/slideshow.gif" alt="Slideshow" width="250" />
-</div>
-<div align="center">
-  <img src="img/Gambar%20png_cropped.jpg" alt="Image 1" width="190" />
-  <img src="img/b097d3d520be028d40386cf3121360d6_cropped.jpg" alt="Image 2" width="150" />
-  <img src="img/06fbaa15b937d9f1780d59fde5e2711a_cropped.jpg" alt="Image 3" width="120" />
-</div>
 
-<!--
 **siswayangtidakmencolok-afk/siswayangtidakmencolok-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -84,31 +75,83 @@ Here are some ideas to get you started:
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siswayangtidakmencolok-afk) [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://gitlab.com/siswayangtidakmencolok) [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31dibr75l6es4qzurcofomvttdlm)
 
 
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 📊 Performance & Skills Overview
+
+### 📈 Daily Productivity Breakdown
+
+<div align="center">
+
+| Time | Hours | Productivity | Activity | Performance |
+|:---:|:---:|:---:|:---|:---:|
+| 🌅 Morning | 06:00-12:00 | 55% ███████████░░░░░░░░░ | Planning & Ideas | ⚡⚡⚡ |
+| ☀️ Daytime | 12:00-17:00 | 95% ███████████████████░ | Peak Implementation | ⚡⚡⚡⚡⚡ |
+| 🌆 Evening | 17:00-21:00 | 80% █████████████████░░░ | Debugging & Testing | ⚡⚡⚡⚡ |
+| 🌙 Night | 21:00-00:00 | 77% ████████████████░░░░ | Creative Coding | ⚡⚡⚡⚡ |
+
+</div>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+### 🎯 Technical Skill Proficiency
+
+<div align="center">
+
+| Technology | Level | Mastery |
+|:---|:---|:---:|
+| 🌐 Web Dev | Mahir | 90% ██████████████████████░░ |
+| 📂 Git & GitHub | Lumayan Mahir | 85% ████████████████████░░░░ |
+| 🗄️ MySQL | Lumayan Mahir | 82% ███████████████████░░░░░ |
+| 🔥 Java | Cukup Mahir | 82% ███████████████████░░░░░ |
+| 🤖 Robotics | Cukup Mahir | 73% ████████████████░░░░░░░░ |
+| 🎨 UI/UX Design | Kurang Mahir | 49% ████████████░░░░░░░░░░░░ |
+| 🍃 Spring Boot | Kurang Mahir | 49% ████████████░░░░░░░░░░░░ |
+| 📱 Flutter | Kurang Mahir | 40% ████████░░░░░░░░░░░░░░░░ |
+
+**Average: 79.9%** • **Strongest: Web Dev** • **Growing: Flutter & Spring Boot**
+
+</div>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+### ⏱️ Weekly Development Activity
+
+<div align="center">
+
+| Language | Time | Distribution |
+|:---|---:|:---:|
+| 🗄️ MySQL/SQL | m | 89.0% ██████████████████░░░ |
+| 🎨 HTML/CSS | m | 60.1% █████████████░░░░░░░░ |
+| ⚡ JavaScript | m | 40.5% ████████░░░░░░░░░░░░░ |
+| 🔥 Java | m | 28.5% ████░░░░░░░░░░░░░░░░░ |
+| 🤖 Arduino/C++ | m | 7.1% █░░░░░░░░░░░░░░░░░░░░ |
+| 📱 Flutter/Dart | m | 3.9% ░░░░░░░░░░░░░░░░░░░░░ |
+
+**📅 Total:** x m • **🔥 Streak:** x days • **⭐ Best Day:** Wenesday • **🎯 Daily Avg:** 4.4h
+
+</div>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/www.facebook.com/somethingnavy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/www.instagram.com/Somethingnavy) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/FhazwanRamadhan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/www.stackoverflow.com/zxyninety) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@www.tiktok.com/eksrovertselalu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/www.x.com/zxyninety1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siswayangtidakmencolook@gmail.com) 
 
 <div align="center">
   <img src="https://count.getloli.com/@:fhazwan?theme=minecraft&padding=7&scale=2&align=center&pixelated=1&darkmode=auto"  />
 </div>
 ____
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=104&section=footer&reversal=false&fontSize=76&fontColor=ADD8E6&fontAlign=50&fontAlignY=50&stroke=-&descSize=4&descAlign=16&descAlignY=133&theme=tokyonight"  />
-</div>
-
 <div align="center">
   <a href="https://open.spotify.com/user/31dibr75l6es4qzurcofonvttdlm?si=15d3e7c4648c4fd1">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dibr75l6es4qzurcofonvttdlm?si=15d3e7c4648c4fd1&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
-###
+#####
 
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHo0M3liczB1emlrcGJrc2s2aTBiMGRlN2JseHl4dXpyb2VlMGR0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IfPE0x5gfa5ctKpph6/giphy.gif"  />
-</div>
-
-###
 
 <div align="left">
   <a href="https://www.youtube.com/@zxyninety293" target="_blank">
@@ -152,9 +195,22 @@ ____
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="105" height="25" alt="visualstudio logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/wechat/default.svg" width="105" height="25" alt="wechat logo"  />
+  <a href="https://tiktok.com/@www.tiktok.com/eksrovertselalu" target="_blank">
+    <img src="https://static.vecteezy.com/system/resources/previews/017/221/712/non_2x/tiktok-icon-transparent-free-png.png" width="105" height="25" alt="tiktok logo"  />
+  </a>
 </div>
 
 ###
+
+<div align="center">
+  <img src="img/slideshow.gif" alt="Slideshow" width="250" />
+</div>
+<div align="center">
+  <img src="img/Gambar%20png_cropped.jpg" alt="Image 1" width="190" />
+  <img src="img/b097d3d520be028d40386cf3121360d6_cropped.jpg" alt="Image 2" width="150" />
+  <img src="img/06fbaa15b937d9f1780d59fde5e2711a_cropped.jpg" alt="Image 3" width="120" />
+</div>
+
 
 ##### 🎵 Current Favorites
 
@@ -173,6 +229,16 @@ ____
   <a href="https://open.spotify.com/user/31dibr75l6es4qzurcofonvttdlm?si=15d3e7c4648c4fd1">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=Zxyninety&count=5" alt="Spotify recently played"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHo0M3liczB1emlrcGJrc2s2aTBiMGRlN2JseHl4dXpyb2VlMGR0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IfPE0x5gfa5ctKpph6/giphy.gif"  />
+</div>
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=104&section=footer&reversal=false&fontSize=76&fontColor=ADD8E6&fontAlign=50&fontAlignY=50&stroke=-&descSize=4&descAlign=16&descAlignY=133&theme=tokyonight"  />
 </div>
 
 ###
@@ -215,3 +281,8 @@ ____
 <<<<<<< HEAD
 <img src="https://raw.githubusercontent.com/siswayangtidakmencolok-afk/siswayangtidakmencolok-afk/output/snake.svg" alt="Snake animation" />
 =======
+
+
+``` 
+Terima kasih sudah mampir! Jangan ragu untuk melihat-lihat project saya dan mari kita belajar bersama! 🚀
+```
