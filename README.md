@@ -199,7 +199,7 @@ ____
 
 <div align="center">
   <img src="img/slideshow.gif" alt="Slideshow" width="250" />
-  <img src="img/slideshow (2).gif" alt="Slideshow" width="250" />
+  <img src="img/slideshow (2).gif" alt="Slideshow" width="150" />
 </div>
 <div align="center">
   <img src="img/Gambar%20png_cropped.jpg" alt="Image 1" width="190" />
