@@ -144,11 +144,6 @@ Here are some ideas to get you started:
   <img src="https://count.getloli.com/@:fhazwan?theme=minecraft&padding=7&scale=2&align=center&pixelated=1&darkmode=auto"  />
 </div>
 ____
-<div align="center">
-  <a href="https://open.spotify.com/user/31dibr75l6es4qzurcofonvttdlm?si=15d3e7c4648c4fd1">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dibr75l6es4qzurcofonvttdlm?si=15d3e7c4648c4fd1&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
 #####
 
@@ -204,6 +199,7 @@ ____
 
 <div align="center">
   <img src="img/slideshow.gif" alt="Slideshow" width="250" />
+  <img src="img/slideshow (2).gif" alt="Slideshow" width="250" />
 </div>
 <div align="center">
   <img src="img/Gambar%20png_cropped.jpg" alt="Image 1" width="190" />
@@ -282,6 +278,9 @@ ____
 <img src="https://raw.githubusercontent.com/siswayangtidakmencolok-afk/siswayangtidakmencolok-afk/output/snake.svg" alt="Snake animation" />
 =======
 
+<div align="center">
+  <img src="img/file_KaisarFhazwan.jpg" alt="Image 1" width="200" />
+</div>
 
 ``` 
 Terima kasih sudah mampir! Jangan ragu untuk melihat-lihat project saya dan mari kita belajar bersama! 🚀
