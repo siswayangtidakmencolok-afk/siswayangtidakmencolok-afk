@@ -224,8 +224,21 @@ ____
 
 </div>
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5bBrtSOdTKWBD8oudp481p?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+###### *🎵 Featured Playlist*
+
+<div align="center">
+  <a href="https://open.spotify.com/playlist/5bBrtSOdTKWBD8oudp481p">
+    <img src="img/playlist_cover.jpg" alt="My Playlist" width="300" style="border-radius: 10px;" />
+  </a>
+  
+  <p>
+    <a href="https://open.spotify.com/playlist/5bBrtSOdTKWBD8oudp481p">
+      <img src="https://img.shields.io/badge/▶️-Listen_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+    </a>
+  </p>
+  
+</div>
 
 ###
 
