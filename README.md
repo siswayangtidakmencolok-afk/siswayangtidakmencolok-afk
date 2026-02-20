@@ -77,7 +77,6 @@ Here are some ideas to get you started:
 ##### ***AcountLearning&Other***
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siswayangtidakmencolok-afk) [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://gitlab.com/siswayangtidakmencolok) [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/zxyninety/) [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/files/team/1546845687377263432/recents-and-sharing?fuid=1546845684957787578) [![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)](https://lightroom.adobe.com/Fhazwan) [![SoundCloud](https://img.shields.io/badge/soundcloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/zxyninety) [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31dibr75l6es4qzurcofomvttdlm) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/FhazwanAthar?locale.x=id_ID&country.x=ID)
 
-
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
@@ -139,7 +138,6 @@ Here are some ideas to get you started:
 </div>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 ## 🌐 Socials:
 <div align="center">
@@ -249,16 +247,39 @@ ____
   <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=104&section=footer&reversal=false&fontSize=76&fontColor=ADD8E6&fontAlign=50&fontAlignY=50&stroke=-&descSize=4&descAlign=16&descAlignY=133&theme=tokyonight"  />
 </div>
 
-###
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 # 📊 GitHub Stats:
-![siswayangtidakmencolok-afk's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
+
+
+<!-- Begin Stats Cards -->
+<!-- Resources:  -->
+<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
+<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
+<!-- Change the value after ?username= to your GitHub username. -->
+
+![siswayangtidakmencolok-afk's GitHub Stats](https://forked-github-readme-stats-one.vercel.app/api?username=siswayangtidakmencolok-afk&count_private=true&hide_rank=true&show_icons=true&theme=dracula&border_radius=10)
+
+
+![Most Used Languages](https://forked-github-readme-stats-one.vercel.app/api/top-langs/?username=siswayangtidakmencolok-afk&layout=compact&count_private=true&show_icons=true&theme=dracula&border_radius=10)
+  <img src="https://streak-stats.demolab.com?user=siswayangtidakmencolok-afk&theme=dracula" height="280" alt="streak graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siswayangtidakmencolok-afk&radius=16&theme=dracula&area=true&order=5" height="200" alt="activity-graph graph"  />
+  
+
+<!--  End Stats Cards -->
+---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siswayangtidakmencolok-afk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="180" alt="GitHub Stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siswayangtidakmencolok-afk&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="180" alt="Top Languages"  />
+</div>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siswayangtidakmencolok-afk&theme=dracula" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=siswayangtidakmencolok-afk&theme=dracula" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siswayangtidakmencolok-afk&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=siswayangtidakmencolok-afk&theme=dracula&column=-1&row=1&margin-w=8&no-bg=false&no-frame=false" alt="GitHub Trophies" />
 </div>
+
 
 <!-- Medium Articles Section -->
 <div align="center">
