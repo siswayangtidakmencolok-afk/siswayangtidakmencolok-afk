@@ -136,7 +136,6 @@ Here are some ideas to get you started:
 **📅 Total:** x m • **🔥 Streak:** x days • **⭐ Best Day:** Wenesday • **🎯 Daily Avg:** 4.4h
 
 </div>
-
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌐 Socials:
@@ -259,27 +258,14 @@ ____
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
 <!-- Change the value after ?username= to your GitHub username. -->
 
-![siswayangtidakmencolok-afk's GitHub Stats](https://forked-github-readme-stats-one.vercel.app/api?username=siswayangtidakmencolok-afk&count_private=true&hide_rank=true&show_icons=true&theme=dracula&border_radius=10)
-
 
 ![Most Used Languages](https://forked-github-readme-stats-one.vercel.app/api/top-langs/?username=siswayangtidakmencolok-afk&layout=compact&count_private=true&show_icons=true&theme=dracula&border_radius=10)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=siswayangtidakmencolok-afk&show_icons=true&theme=dracula" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=siswayangtidakmencolok-afk&theme=dracula" height="280" alt="streak graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siswayangtidakmencolok-afk&radius=16&theme=dracula&area=true&order=5" height="200" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siswayangtidakmencolok-afk&radius=16&theme=dracula&area=true&order=5" height="150" alt="activity-graph graph"  />
   
 
 <!--  End Stats Cards -->
----
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siswayangtidakmencolok-afk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="180" alt="GitHub Stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siswayangtidakmencolok-afk&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="180" alt="Top Languages"  />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=siswayangtidakmencolok-afk&theme=dracula&column=-1&row=1&margin-w=8&no-bg=false&no-frame=false" alt="GitHub Trophies" />
-</div>
-
 
 <!-- Medium Articles Section -->
 <div align="center">
