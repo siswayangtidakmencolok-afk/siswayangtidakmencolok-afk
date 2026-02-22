@@ -303,9 +303,8 @@ ____
 ---
 [![](https://visitcount.itsvg.in/api?id=siswayangtidakmencolok-afk&icon=0&color=7)](https://visitcount.itsvg.in)
 
-<<<<<<< HEAD
+##### **contribution activity snake's**
 <img src="https://raw.githubusercontent.com/siswayangtidakmencolok-afk/siswayangtidakmencolok-afk/output/snake.svg" alt="Snake animation" />
-=======
 
 <div align="center">
   <img src="img/file_KaisarFhazwan.jpg" alt="Image 1" width="200" />
