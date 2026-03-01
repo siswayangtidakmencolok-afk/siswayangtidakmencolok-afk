@@ -138,14 +138,77 @@ Here are some ideas to get you started:
 </div>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🌐 Socials:
+
+### **$🚀 Featured Work$**
 
 <div align="center">
-  <img src="https://count.getloli.com/@:fhazwan?theme=minecraft&padding=7&scale=2&align=center&pixelated=1&darkmode=auto"  />
-</div>
-____
 
-#####
+<table>
+<tr>
+<td width="50%">
+
+**$🤖 Smart Robotics System$**
+
+<img src="img/project1.jpg" width="100%" alt="Robot Project"/>
+
+**Tech:** `Arduino` `C++` `IoT` `Sensors`
+
+Autonomous robot dengan AI navigation system yang bisa mendeteksi objek dan menghindari rintangan.
+
+**🏆 Achievement:** 3st Place Otonom Competition 2024
+
+[View Project →](https://github.com/siswayangtidakmencolok-afk/Teacher-Absence)
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=104&section=footer&reversal=false&fontSize=76&fontColor=ADD8E6&fontAlign=50&fontAlignY=50&stroke=-&descSize=4&descAlign=16&descAlignY=133&theme=tokyonight"  />
+</div>
+
+</td>
+<td width="50%">
+
+**$👨‍🏫 Teacher Absence WEB$**
+
+<img src="img/project2.jpg" width="100%" alt="Absence"/>
+
+**Tech:** `PHP` `Laravel` `Hosting` `CodeIgniter4`
+
+...
+
+**Perpengaruh**: Bisa buat absensi guru dan code sudah bisa di clone FREE
+
+[View Project →](https://github.com/siswayangtidakmencolok-afk/Teacher-Absence)
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=104&section=footer&reversal=false&fontSize=76&fontColor=ADD8E6&fontAlign=50&fontAlignY=50&stroke=-&descSize=4&descAlign=16&descAlignY=133&theme=tokyonight"  />
+</div>
+
+</td>
+<td width="50%">
+
+**$📱 App Food Order (React)$**
+
+<img src="img/project3.jpg" width="100%" alt="Web App"/>
+
+**Tech:** `React Native` `JavaScript` `Varcel` `React` `Deployment`
+
+Applikasi order makanan fitur lengkap dan open source domain
+[Kunjungi web 👨‍💻](https://app-pemesananmakanan.vercel.app/)
+
+**📊 Impact:** Banyak fitur bagus 
+
+[View Project →](https://github.com/siswayangtidakmencolok-afk/App_food_order-ReactNative-)
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=104&section=footer&reversal=false&fontSize=76&fontColor=ADD8E6&fontAlign=50&fontAlignY=50&stroke=-&descSize=4&descAlign=16&descAlignY=133&theme=tokyonight"  />
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+## $🌐 Socials:$
+
+____
 
 
 <div align="left">
@@ -241,9 +304,12 @@ ____
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHo0M3liczB1emlrcGJrc2s2aTBiMGRlN2JseHl4dXpyb2VlMGR0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IfPE0x5gfa5ctKpph6/giphy.gif"  />
 </div>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=104&section=footer&reversal=false&fontSize=76&fontColor=ADD8E6&fontAlign=50&fontAlignY=50&stroke=-&descSize=4&descAlign=16&descAlignY=133&theme=tokyonight"  />
+
+<div align="center">
+  <img src="https://count.getloli.com/@:fhazwan?theme=minecraft&padding=7&scale=2&align=center&pixelated=1&darkmode=auto"  />
 </div>
+
+#####
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -306,3 +372,37 @@ ____
 ``` 
 Terima kasih sudah mampir! Jangan ragu untuk melihat-lihat project saya dan mari kita belajar bersama! 🚀
 ```
+
+---
+
+## 🎨 Design Portfolio
+
+<div align="center">
+
+### UI/UX Projects
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="img/design1.jpg" width="200" alt="Design 1"/><br/>
+<sub><b>E-Commerce Mobile App</b></sub><br/>
+<sub>Figma • User Research</sub>
+</td>
+<td align="center" width="33%">
+<img src="img/design2.jpg" width="200" alt="Design 2"/><br/>
+<sub><b>Dashboard Analytics</b></sub><br/>
+<sub>Adobe XD • Wireframing</sub>
+</td>
+<td align="center" width="33%">
+<img src="img/design3.jpg" width="200" alt="Design 3"/><br/>
+<sub><b>Landing Page Redesign</b></sub><br/>
+<sub>Sketch • Prototyping</sub>
+</td>
+</tr>
+</table>
+
+**🔗 View Full Portfolio:** [Behance](https://behance.net/YOUR_USERNAME) • [Dribbble](https://dribbble.com/YOUR_USERNAME)
+
+</div>
+
+---
