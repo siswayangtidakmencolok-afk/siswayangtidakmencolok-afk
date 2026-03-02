@@ -65,9 +65,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+###### ***language***
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="29" alt="go logo"  /> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-###### ***language***
 
 ###### ***hosting***
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://app.netlify.com/fhazwann) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/fhazwan) 
@@ -387,25 +387,20 @@ Terima kasih sudah mampir! Jangan ragu untuk melihat-lihat project saya dan mari
 
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="img/design1.jpg" width="200" alt="Design 1"/><br/>
+<td align="center" width="50%">
+<img src="img/design1.jpg" width="250" alt="Design 1"/><br/>
 <sub><b>E-Commerce Mobile App</b></sub><br/>
 <sub>Figma • User Research</sub>
 </td>
-<td align="center" width="33%">
-<img src="img/design2.jpg" width="200" alt="Design 2"/><br/>
+<td align="center" width="50%">
+<img src="img/design2.jpg" width="250" alt="Design 2"/><br/>
 <sub><b>Dashboard Analytics</b></sub><br/>
 <sub>Adobe XD • Wireframing</sub>
-</td>
-<td align="center" width="33%">
-<img src="img/design3.jpg" width="200" alt="Design 3"/><br/>
-<sub><b>Landing Page Redesign</b></sub><br/>
-<sub>Sketch • Prototyping</sub>
 </td>
 </tr>
 </table>
 
-**🔗 View Full Portfolio:** [Figma](https://www.figma.com/@fhazwanathar) • [Dribbble](https://dribbble.com/YOUR_USERNAME)
+**🔗 View Full Portfolio:** [Figma](https://www.figma.com/@fhazwanathar) • [Behance](https://www.behance.net/zxyninefhazwa)
 
 </div>
 
