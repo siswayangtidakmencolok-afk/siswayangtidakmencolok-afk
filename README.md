@@ -65,9 +65,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="29" alt="go logo"  /> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ###### ***language***
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="29" alt="go logo"  /> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ###### ***hosting***
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://app.netlify.com/fhazwann) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/fhazwan) 
@@ -169,9 +169,10 @@ Autonomous robot dengan AI navigation system yang bisa mendeteksi objek dan meng
 
 <img src="img/project2.jpg" width="100%" alt="Absence"/>
 
-**Tech:** `PHP` `Laravel` `Hosting` `CodeIgniter4`
+**Tech:** `PHP` `Laravel` `Hosting` `Railway`
 
 ...
+[klik untuk lihat app](https://teacher-absence-production.up.railway.app/)
 
 **Perpengaruh**: Bisa buat absensi guru dan code sudah bisa di clone FREE
 
@@ -218,7 +219,7 @@ ____
   <a href="https://paypal.me/FhazwanAthar?locale.x=id_ID&country.x=ID" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="105" height="25" alt="paypal logo"  />
   </a>
-  <a href="https://whatsapp.com/0895403891152" target="_blank">
+  <a href="https://wa.me/qr/RKCJNQUSIH6VF1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="105" height="25" alt="whatsapp logo"  />
   </a>
   <a href="https://gitlab.com/siswayangtidakmencolok" target="_blank">
@@ -255,6 +256,9 @@ ____
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/wechat/default.svg" width="105" height="25" alt="wechat logo"  />
   <a href="https://tiktok.com/@www.tiktok.com/eksrovertselalu" target="_blank">
     <img src="https://static.vecteezy.com/system/resources/previews/017/221/712/non_2x/tiktok-icon-transparent-free-png.png" width="105" height="25" alt="tiktok logo"  />
+  </a>
+  <a href="https://v.douyin.com/iV_CXQKGq9U/ 复制此链接，打开Dou音搜索，直接观看视频" target="_blank">
+    <img src="https://i.pinimg.com/originals/9a/79/de/9a79decb24f139b7a5476d600fdf4b06.png" width="105" height="25" alt="douyin logo"  />
   </a>
 </div>
 
@@ -401,7 +405,7 @@ Terima kasih sudah mampir! Jangan ragu untuk melihat-lihat project saya dan mari
 </tr>
 </table>
 
-**🔗 View Full Portfolio:** [Behance](https://behance.net/YOUR_USERNAME) • [Dribbble](https://dribbble.com/YOUR_USERNAME)
+**🔗 View Full Portfolio:** [Figma](https://www.figma.com/@fhazwanathar) • [Dribbble](https://dribbble.com/YOUR_USERNAME)
 
 </div>
 
