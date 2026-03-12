@@ -80,6 +80,7 @@ Here are some ideas to get you started:
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
+
 ## 📊 Performance & Skills Overview
 
 ### 📈 Daily Productivity Breakdown
@@ -152,7 +153,7 @@ Here are some ideas to get you started:
 <img src="img/project1.jpg" width="100%" alt="Robot Project"/>
 
 **Tech:** `Arduino` `C++` `IoT` `Sensors`
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d4f787ee-6921-4d95-85ce-86ff267588bc/deploy-status)](https://app.netlify.com/projects/globe3dsystemsolar/deploys)
 Autonomous robot dengan AI navigation system yang bisa mendeteksi objek dan menghindari rintangan.
 
 **🏆 Achievement:** 3st Place Otonom Competition 2024
