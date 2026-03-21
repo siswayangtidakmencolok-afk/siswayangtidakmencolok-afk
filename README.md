@@ -20,15 +20,13 @@
 </div>
 <br/>
 
-
-![siswayangtidakmencolok-afk](img/github-header-banner.png)
-
-<!-- OPTION 2: Hitam + Text Putih (High Contrast) -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=firacode&weight=600&size=35&duration=4000&pause=500&color=FFFFFF&background=000000&vCenter=true&multiline=true&width=1000&height=100&lines=Silahkan+Melihat+lihat+Profil+Saya;Fhazz+-+Software+Engineer" alt="Typing SVG" />
-  </a>
-</div>
+
+<img src="img/github-header-banner.png" alt="Profile Banner" width="80%" style="border-radius: 10px;"/>
+
+### 🚀 Student • Developer • Creative Technologist
+
+**📍 Based in Jakarta, Indonesia 🏙️**
 
 <!-- Profile Stats Bar -->
 <div align="center">
@@ -37,12 +35,43 @@
   <img src="https://img.shields.io/github/stars/siswayangtidakmencolok-afk?style=for-the-badge&color=yellow&label=TOTAL+STARS" />
 </div>
 <br/>
+</div>
 
-##### **Skills & Interests**
-***<br>Cyber Security 🔐 - Melindungi sistem dan data dari ancaman<br>***
-***Front-End Development 🌐 - Membuat tampilan web yang menarik dan responsif<br>***
-***Database Management 🗄️ - Mengelola dan mengorganisir data dengan efisien<br>***
-<br>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=00CFFF&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%8E%AF+Who+Am+I%3F" alt="Who Am I" />
+</div>
+
+Seorang **pelajar RPL** yang tinggal di Jakarta dengan passion tinggi di dunia teknologi. Saya bukan hanya seorang programmer — saya adalah **problem solver**, **innovator**, dan **lifelong learner** yang selalu ingin tahu tentang hal-hal baru.
+
+> *"Saya cenderung dingin, tapi memiliki rasa ingin tahu yang sangat tinggi terhadap hal-hal baru."*
+
+Itulah yang membawa saya masuk ke jurusan **RPL** — untuk menambah wawasan tentang pemrograman dan mengasah berbagai keahlian yang saya minati.
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=00CFFF&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%8E%A8+Beyond+Coding" alt="Beyond Coding" />
+</div>
+
+Saya percaya bahwa **kreativitas** adalah kunci inovasi. Di luar dunia programming, saya juga:
+
+<div align="center">
+
+| 🎨 Creative Arts | 💪 Active Lifestyle | 📚 Intellectual Pursuits |
+|:---:|:---:|:---:|
+| **Menggambar** (🥇 Competition Winner) | **Gym & Jogging** | **Membaca Manga** |
+| **Photo/Video Editing** | **Guitar Playing 🎸** | **Menulis Novel** |
+| **UI/UX Design** | **Memasak 🍳** | **Gaming Strategy 🎮** |
+
+</div>
+
+**Why it matters?** Semua hobi ini **membentuk cara saya berpikir**:
+- 🎨 **Design thinking** dari drawing & UI/UX
+- 🎸 **Pattern recognition** dari musik
+- 🍳 **Process optimization** dari memasak
+- 📖 **Storytelling** dari novel writing
+- 🎮 **Strategic thinking** dari gaming
+
 
 
 <!--
@@ -140,77 +169,148 @@ Here are some ideas to get you started:
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
-### **$🚀 Featured Work$**
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=2000&pause=500&color=Ec4899&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%9A%80+Featured+Work" alt="Featured Work" />
+</div>
+
 
 <div align="center">
 
+##### 💼 Selected Projects
+
 <table>
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-**$🤖 Smart Robotics System$**
+#### 🤖 Smart Robotics System
 
-<img src="img/project1.jpg" width="100%" alt="Robot Project"/>
+<img src="img/project1.jpg" width="100%" alt="Robot Project" style="border-radius: 8px;"/>
 
-**Tech:** `Arduino` `C++` `IoT` `Sensors`
+**Tech Stack:**
+`Arduino` `C++` `IoT` `Sensors`
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d4f787ee-6921-4d95-85ce-86ff267588bc/deploy-status)](https://app.netlify.com/projects/globe3dsystemsolar/deploys)
+
 Autonomous robot dengan AI navigation system yang bisa mendeteksi objek dan menghindari rintangan.
 
-**🏆 Achievement:** 3st Place Otonom Competition 2024
+**🏆 Achievement:** 🥉 3rd Place Otonom Competition 2024
 
 [View Project →](https://github.com/siswayangtidakmencolok-afk/Teacher-Absence)
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=104&section=footer&reversal=false&fontSize=76&fontColor=ADD8E6&fontAlign=50&fontAlignY=50&stroke=-&descSize=4&descAlign=16&descAlignY=133&theme=tokyonight"  />
-</div>
 
 </td>
-<td width="50%">
+<td width="33%" valign="top">
 
-**$👨‍🏫 Teacher Absence WEB$**
+#### 👨‍🏫 Teacher Absence Web
 
-<img src="img/project2.jpg" width="100%" alt="Absence"/>
+<img src="img/project2.jpg" width="100%" alt="Absence" style="border-radius: 8px;"/>
 
-**Tech:** `PHP` `Laravel` `Hosting` `Railway`
+**Tech Stack:**
+`PHP` `Laravel` `Railway` `MySQL`
 
-...
-[klik untuk lihat app](https://teacher-absence-production.up.railway.app/)
+Web application untuk sistem absensi guru dengan fitur real-time tracking dan reporting.
 
-**Perpengaruh**: Bisa buat absensi guru dan code sudah bisa di clone FREE
+**📊 Impact:** Bisa buat absensi guru dan code sudah bisa di-clone **FREE**
 
-[View Project →](https://github.com/siswayangtidakmencolok-afk/Teacher-Absence)
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=104&section=footer&reversal=false&fontSize=76&fontColor=ADD8E6&fontAlign=50&fontAlignY=50&stroke=-&descSize=4&descAlign=16&descAlignY=133&theme=tokyonight"  />
-</div>
+[🌐 Live Demo](https://teacher-absence-production.up.railway.app/) • [📁 Source Code](https://github.com/siswayangtidakmencolok-afk/Teacher-Absence)
 
 </td>
-<td width="50%">
+<td width="33%" valign="top">
 
-**$📱 App Food Order (React)$**
+#### 📱 App Food Order (React)
 
-<img src="img/project3.jpg" width="100%" alt="Web App"/>
+<img src="img/project3.jpg" width="100%" alt="Web App" style="border-radius: 8px;"/>
 
-**Tech:** `React Native` `JavaScript` `Varcel` `React` `Deployment`
+**Tech Stack:**
+`React Native` `JavaScript` `Vercel` `React`
 
-Applikasi order makanan fitur lengkap dan open source domain
-[Kunjungi web 👨‍💻](https://app-pemesananmakanan.vercel.app/)
+Aplikasi order makanan dengan fitur lengkap dan **open source**. Deployed di Vercel dengan performance optimal.
 
-**📊 Impact:** Banyak fitur bagus 
+**✨ Features:** Menu catalog, cart system, order tracking
 
-[View Project →](https://github.com/siswayangtidakmencolok-afk/App_food_order-ReactNative-)
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=104&section=footer&reversal=false&fontSize=76&fontColor=ADD8E6&fontAlign=50&fontAlignY=50&stroke=-&descSize=4&descAlign=16&descAlignY=133&theme=tokyonight"  />
-</div>
+[🌐 Visit Website](https://app-pemesananmakanan.vercel.app/) • [📁 Source Code](https://github.com/siswayangtidakmencolok-afk/App_food_order-ReactNative-)
 
 </td>
 </tr>
 </table>
 
+**📁 View All Projects:** [GitHub Repositories](https://github.com/siswayangtidakmencolok-afk?tab=repositories)
+
 </div>
 
+---
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%9B%A0%EF%B8%8F+My+Tech+Journey" alt="My Tech Journey" />
+</div>
 
-## $🌐 Socials:$
+**🌟 What I've Achieved:**
 
-____
+- ☁️ **AWS Cloud Computing** - 🥉 3rd Place (SMK Level, 2025)
+- 🤖 **Robotics Competition** - 🥉 3rd Place (Otonom, 2024)
+- 🎨 **Drawing Competition** - 🥇 1st Place (SMP Level, 2023)
+- 💻 **3+ Open Source Projects** - Used by real users
+- 🎓 **Self-Taught Developer** - Java, PHP, React, Arduino, IoT
+
+**📚 Currently Learning:**
+- Cloud Computing (AWS)
+- AI & Machine Learning
+- Advanced Spring Boot
+- System Design
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=900&height=60&lines=%F0%9F%92%A1+My+Approach+to+Tech" alt="My Approach" />
+</div>
+
+</div>
+
+1. **Curiosity-Driven** - Rasa ingin tahu yang tinggi mendorong saya untuk terus belajar
+2. **Hands-On Learning** - Belajar dengan praktik, bukan hanya teori
+3. **Open Source Mindset** - Berbagi ilmu dan kode dengan komunitas
+4. **Problem-Solving Focus** - Fokus pada solusi yang **impactful** dan **practical**
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%8E%AF+2025+Goals" alt="2025 Goals" />
+</div>
+<div align="center">
+
+| Goal | Status | Target |
+|:---|:---:|:---|
+| 🚀 Deploy 5+ Production Apps | 🔄 In Progress | June 2025 |
+| ☁️ AWS Certification | 📚 Studying | December 2025 |
+| 🤖 Advanced AI/ML Project | 🌱 Planning | Q3 2025 |
+| 🏆 Win Tech Competition | 🎯 Ongoing | Throughout 2025 |
+| 👥 Contribute to Major Open Source | 📝 Started | Ongoing |
+
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%A4%9D+Let's+Connect!" alt="Let's Connect" />
+</div>
+
+<div align="center">
+
+Saya selalu terbuka untuk **collaboration**, **learning opportunities**, dan **tech discussions**. 
+
+Punya project idea? Butuh developer? Atau sekadar mau ngobrol tentang tech? **Feel free to reach out!**
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siswayangtidakmencolok@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siswayangtidakmencolok-afk)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@siswayangtidakmencolok)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/f.zvvn_)
+
+**💬 Response Time:** Usually within 24 hours
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%8E%AF+Social" />
+<div align ="center">  
 
 
 <div align="left">
