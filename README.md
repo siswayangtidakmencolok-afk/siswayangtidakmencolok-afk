@@ -4,6 +4,20 @@
   <img width="100%" height="250" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Selamat%20Datang%20di%20Akun%20Fhazwan&fontSize=50&fontColor=FFFFFF&fontAlignY=28&animation=twinkling&desc=DEVELOPER%20%7C%20PROBLEM%20SOLVER&descSize=20&descAlignY=48&color=0:1a1a1a,50:2d3748,100:4a5568" />
 </div>
 
+<!-- Banner dengan Foto + Animated Border -->
+<div align="center">
+  
+  <!-- Animated Top Border -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d3748,100:4a5568&height=100&section=header" width="100%"/>
+  
+  <!-- Photo Banner dengan Frame -->
+  <img src="img/github-header-banner.png" alt="Profile Banner" width="90%" style="border-radius: 15px; border: 3px solid #00CFFF;"/>
+  
+  <!-- Animated Bottom Border -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d3748,100:4a5568&height=100&section=footer" width="100%"/>
+  
+</div>
+
 <!-- Teks Animated Subtitle -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=EC4899&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Student+•+Developer+•+Creative+Technologist;Student+at+SMK+YP+IPPI+Jakarta;Based+in+Jakarta%2C+Indonesia+🏙️" alt="Subtitle" />
@@ -11,7 +25,6 @@
 
 <br/>
 
-<img src="img/github-header-banner.png" alt="Profile Banner" width="80%" style="border-radius: 10px;"/>
 
 <!-- Profile Stats Bar -->
 <div align="center">
@@ -41,6 +54,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=Itulah+yang+membawa+saya+masuk+RPL;Untuk+menambah+wawasan+pemrograman;dan+mengasah+berbagai+keahlian" alt="Closing" />
 </div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=ec4899&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%8E%A8+Beyond+Coding" alt="Beyond Coding" />
@@ -343,13 +357,98 @@ Aplikasi order makanan dengan fitur lengkap dan **open source**. Deployed di Ver
 
 <div align="center">
 
-| Goal | Status | Target |
-|:---|:---:|:---|
-| 🚀 Deploy 7+ Production Apps | 🔄 In Progress | June 2025 |
-| ☁️ AWS Certification | 📚 Studying | December 2025 |
-| 🤖 Advanced AI/ML Project | 🌱 Planning | Q3 2025 |
-| 🏆 Win Tech Competition | 🎯 Ongoing | Throughout 2025 |
-| 👥 Contribute to Major Open Source | 📝 Started | Ongoing |
+<br/>
+
+<!-- Timeline Item 1 -->
+<table>
+<tr>
+<td width="5%" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60"/>
+</td>
+<td width="2%">
+<h2>│</h2>
+</td>
+<td width="93%">
+<img src="https://img.shields.io/badge/🚀_Deploy_7+_Production_Apps-00CFFF?style=for-the-badge&labelColor=1a1a1a"/>
+<br/>
+<sub>Status: 🔄 <b>In Progress (40%)</b> | Target: <b>June 2025</b></sub>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+<!-- Timeline Item 2 -->
+<table>
+<tr>
+<td width="5%" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"/>
+</td>
+<td width="2%">
+<h2>│</h2>
+</td>
+<td width="93%">
+<img src="https://img.shields.io/badge/☁️_AWS_Certification-10B981?style=for-the-badge&labelColor=1a1a1a"/>
+<br/>
+<sub>Status: 📚 <b>Studying</b> | Target: <b>December 2025</b></sub>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+<!-- Timeline Item 3 -->
+<table>
+<tr>
+<td width="5%" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60"/>
+</td>
+<td width="2%">
+<h2>│</h2>
+</td>
+<td width="93%">
+<img src="https://img.shields.io/badge/🤖_Advanced_AI/ML_Project-8B5CF6?style=for-the-badge&labelColor=1a1a1a"/>
+<br/>
+<sub>Status: 🌱 <b>Planning</b> | Target: <b>Q3 2025</b></sub>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+<!-- Timeline Item 4 -->
+<table>
+<tr>
+<td width="5%" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60"/>
+</td>
+<td width="2%">
+<h2>│</h2>
+</td>
+<td width="93%">
+<img src="https://img.shields.io/badge/🏆_Win_Tech_Competition-EC4899?style=for-the-badge&labelColor=1a1a1a"/>
+<br/>
+<sub>Status: 🎯 <b>Ongoing</b> | Target: <b>Throughout 2025</b></sub>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+<!-- Timeline Item 5 -->
+<table>
+<tr>
+<td width="5%" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60"/>
+</td>
+<td width="2%">
+<h2>▼</h2>
+</td>
+<td width="93%">
+<img src="https://img.shields.io/badge/👥_Contribute_to_Major_Open_Source-F59E0B?style=for-the-badge&labelColor=1a1a1a"/>
+<br/>
+<sub>Status: 📝 <b>Started</b> | Target: <b>Ongoing</b></sub>
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d3748,100:4a5568&height=100&section=footer" width="100%"/>
 
 </div>
 
