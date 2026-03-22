@@ -7,14 +7,8 @@
 
 <img src="img/github-header-banner.png" alt="Profile Banner" width="80%" style="border-radius: 10px;"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80%">
 
-  <!-- Teks Tengah Animated -->
-  <div style="margin-top: -20px; margin-bottom: 10px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=10&size=30&duration=900&pause=1000&color=EC4899&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Student•Developer•Creative+Technologist;Student+at+SMK+YpIppi+Jakarta;+based+in+Jakarta+Indonesia" alt="Animated Center Text" />
-  </div>
 
-<div align="center">
 
 <!-- Profile Stats Bar -->
 <div align="center">
@@ -23,7 +17,12 @@
   <img src="https://img.shields.io/github/stars/siswayangtidakmencolok-afk?style=for-the-badge&color=yellow&label=TOTAL+STARS" />
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80%">
 
+  <!-- Teks Tengah Animated -->
+  <div style="margin-top: -20px; margin-bottom: 10px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=10&size=30&duration=900&pause=1000&color=EC4899&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Student•Developer•Creative+Technologist;Student+at+SMK+YpIppi+Jakarta;+based+in+Jakarta+Indonesia" alt="Animated Center Text" />
+  </div>
 
 <div align="center">
 <br>
@@ -105,7 +104,7 @@ Here are some ideas to get you started:
 ##### ***AcountLearning&Other***
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siswayangtidakmencolok-afk) [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://gitlab.com/siswayangtidakmencolok) <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="29" alt="ubuntu logo"  /> <img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=black&style=for-the-badge" height="29" alt="fedora logo"  /> [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/zxyninety/) [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/files/team/1546845687377263432/recents-and-sharing?fuid=1546845684957787578) [![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)](https://lightroom.adobe.com/libraries/cc82ba9c4aab4af081a3ef01c62f760a/assets?panel=organize)  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="29" alt="arduino logo"  /> <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="29" alt="wordpress logo"  />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=50&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,50,100&height=50&section=footer" width="100%"/>
 
 
 ## 📊 Performance & Skills Overview
