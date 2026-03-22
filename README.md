@@ -3,12 +3,18 @@
   <!-- Wave Header -->
   <img width="100%" height="250" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Selamat%20Datang%20di%20Akun%20Fhazwan&fontSize=50&fontColor=FFFFFF&fontAlignY=28&animation=twinkling&desc=DEVELOPER%20%7C%20PROBLEM%20SOLVER&descSize=20&descAlignY=48&color=0:1a1a1a,50:2d3748,100:4a5568" />
 
-  
-
 <img src="img/github-header-banner.png" alt="Profile Banner" width="80%" style="border-radius: 10px;"/>
 
-
-
+ <!-- Teks Tengah Animated -->
+<div align="center">
+  <table>
+    <tr>
+      <td style="padding-top: 0; padding-bottom: 0;">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&color=EC4899&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Student+•+Developer+•+Creative+Technologist;Student+at+SMK+YP+IPPI+Jakarta;Based+in+Jakarta%2C+Indonesia+🏙️" alt="Animated Text" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- Profile Stats Bar -->
 <div align="center">
@@ -17,30 +23,20 @@
   <img src="https://img.shields.io/github/stars/siswayangtidakmencolok-afk?style=for-the-badge&color=yellow&label=TOTAL+STARS" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80%">
-
-  <!-- Teks Tengah Animated -->
-  <div style="margin-top: -20px; margin-bottom: 10px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=10&size=30&duration=900&pause=1000&color=EC4899&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Student•Developer•Creative+Technologist;Student+at+SMK+YpIppi+Jakarta;+based+in+Jakarta+Indonesia" alt="Animated Center Text" />
-  </div>
-
 <div align="center">
 <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%8E%AF+Who+Am+I%3F" alt="Who Am I" />
 </div>
-
 <br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=120&lines=Seorang+pelajar+RPL+di+Jakarta;Problem+Solver+%7C+Innovator+%7C+Lifelong+Learner;Passion+tinggi+di+dunia+teknologi" alt="Intro" />
 </div>
-
 <br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%22Saya+cenderung+dingin%2C+tapi+memiliki;rasa+ingin+tahu+yang+sangat+tinggi.%22" alt="Quote" />
 </div>
-
 <br/>
 
 <div align="center">
@@ -345,6 +341,7 @@ Aplikasi order makanan dengan fitur lengkap dan **open source**. Deployed di Ver
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%8E%AF+2025+Goals" alt="2025 Goals" />
 </div>
+
 <div align="center">
 
 | Goal | Status | Target |
