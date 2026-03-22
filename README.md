@@ -2,29 +2,30 @@
 <div align="center">
   <!-- Wave Header -->
   <img width="100%" height="250" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Selamat%20Datang%20di%20Akun%20Fhazwan&fontSize=50&fontColor=FFFFFF&fontAlignY=28&animation=twinkling&desc=DEVELOPER%20%7C%20PROBLEM%20SOLVER&descSize=20&descAlignY=48&color=0:1a1a1a,50:2d3748,100:4a5568" />
+
   
 
 <img src="img/github-header-banner.png" alt="Profile Banner" width="80%" style="border-radius: 10px;"/>
 
-</div>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1%">
+___
+  <!-- Teks Tengah Animated -->
+  <div style="margin-top: -20px; margin-bottom: 10px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=10&size=30&duration=900&pause=1000&color=EC4899&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Student•Developer•Creative+Technologist;Student+at+SMK+YpIppi+Jakarta;📍+based+in+Jakarta+Indonesia" alt="Animated Center Text" />
+  </div>
 
 <div align="center">
 
-  <!-- Teks Tengah Animated -->
-  <div style="margin-top: -20px; margin-bottom: 10px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=800&color=EC4899&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Student•Developer•Creative+Technologist;Student+at+SMK+YpIppi+Jakarta;📍+based+in+Jakarta+Indonesia" alt="Animated Center Text" />
-  </div>
 <!-- Profile Stats Bar -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=siswayangtidakmencolok-afk&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/siswayangtidakmencolok-afk?style=for-the-badge&color=blue&label=FOLLOWERS" />
   <img src="https://img.shields.io/github/stars/siswayangtidakmencolok-afk?style=for-the-badge&color=yellow&label=TOTAL+STARS" />
 </div>
-<br/>
-</>
+
+
 
 <div align="center">
+<br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%8E%AF+Who+Am+I%3F" alt="Who Am I" />
 </div>
 
