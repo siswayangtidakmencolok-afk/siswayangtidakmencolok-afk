@@ -3,31 +3,18 @@
   <!-- Wave Header -->
   <img width="100%" height="250" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Selamat%20Datang%20di%20Akun%20Fhazwan&fontSize=50&fontColor=FFFFFF&fontAlignY=28&animation=twinkling&desc=DEVELOPER%20%7C%20PROBLEM%20SOLVER&descSize=20&descAlignY=48&color=0:1a1a1a,50:2d3748,100:4a5568" />
   
-  <!-- Teks Tengah Animated -->
-  <div style="margin-top: -20px; margin-bottom: 10px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00CFFF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=%F0%9F%92%BB+Coding+%7C+Learning+%7C+Building;%F0%9F%9A%80+Passionate+Developer;%E2%9C%A8+Turning+Ideas+into+Reality" alt="Animated Center Text" />
-  </div>
-  
-  <!-- Border Pemisah -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<br/>
-
-<!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Halo%2C+Saya+Fhazwan;%F0%9F%92%BB+Developer+%7C+Student;%F0%9F%9A%80+Membangun+Masa+Depan+dengan+Kode" alt="Typing Animation" />
-</div>
-<br/>
-
-<div align="center">
 
 <img src="img/github-header-banner.png" alt="Profile Banner" width="80%" style="border-radius: 10px;"/>
 
-### 🚀 Student • Developer • Creative Technologist
+</div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1%">
 
-**📍 Based in Jakarta, Indonesia 🏙️**
+<div align="center">
 
+  <!-- Teks Tengah Animated -->
+  <div style="margin-top: -20px; margin-bottom: 10px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=800&color=EC4899&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Student•Developer•Creative+Technologist;Student+at+SMK+YpIppi+Jakarta;📍+based+in+Jakarta+Indonesia" alt="Animated Center Text" />
+  </div>
 <!-- Profile Stats Bar -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=siswayangtidakmencolok-afk&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
@@ -35,22 +22,32 @@
   <img src="https://img.shields.io/github/stars/siswayangtidakmencolok-afk?style=for-the-badge&color=yellow&label=TOTAL+STARS" />
 </div>
 <br/>
+</>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%8E%AF+Who+Am+I%3F" alt="Who Am I" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=120&lines=Seorang+pelajar+RPL+di+Jakarta;Problem+Solver+%7C+Innovator+%7C+Lifelong+Learner;Passion+tinggi+di+dunia+teknologi" alt="Intro" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%22Saya+cenderung+dingin%2C+tapi+memiliki;rasa+ingin+tahu+yang+sangat+tinggi.%22" alt="Quote" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=Itulah+yang+membawa+saya+masuk+RPL;Untuk+menambah+wawasan+pemrograman;dan+mengasah+berbagai+keahlian" alt="Closing" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=00CFFF&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%8E%AF+Who+Am+I%3F" alt="Who Am I" />
-</div>
-
-Seorang **pelajar RPL** yang tinggal di Jakarta dengan passion tinggi di dunia teknologi. Saya bukan hanya seorang programmer — saya adalah **problem solver**, **innovator**, dan **lifelong learner** yang selalu ingin tahu tentang hal-hal baru.
-
-> *"Saya cenderung dingin, tapi memiliki rasa ingin tahu yang sangat tinggi terhadap hal-hal baru."*
-
-Itulah yang membawa saya masuk ke jurusan **RPL** — untuk menambah wawasan tentang pemrograman dan mengasah berbagai keahlian yang saya minati.
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=00CFFF&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%8E%A8+Beyond+Coding" alt="Beyond Coding" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=ec4899&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%8E%A8+Beyond+Coding" alt="Beyond Coding" />
 </div>
 
 Saya percaya bahwa **kreativitas** adalah kunci inovasi. Di luar dunia programming, saya juga:
@@ -72,8 +69,6 @@ Saya percaya bahwa **kreativitas** adalah kunci inovasi. Di luar dunia programmi
 - 📖 **Storytelling** dari novel writing
 - 🎮 **Strategic thinking** dari gaming
 
-
-
 <!--
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
@@ -94,6 +89,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=50&section=footer" width="100%"/>
+
 ###### ***language***
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="29" alt="go logo"  /> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
@@ -106,8 +103,7 @@ Here are some ideas to get you started:
 ##### ***AcountLearning&Other***
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siswayangtidakmencolok-afk) [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://gitlab.com/siswayangtidakmencolok) <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="29" alt="ubuntu logo"  /> <img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=black&style=for-the-badge" height="29" alt="fedora logo"  /> [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/zxyninety/) [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/files/team/1546845687377263432/recents-and-sharing?fuid=1546845684957787578) [![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)](https://lightroom.adobe.com/libraries/cc82ba9c4aab4af081a3ef01c62f760a/assets?panel=organize)  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="29" alt="arduino logo"  /> <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="29" alt="wordpress logo"  />
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=50&section=footer" width="100%"/>
 
 
 ## 📊 Performance & Skills Overview
@@ -125,8 +121,7 @@ Here are some ideas to get you started:
 
 </div>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### 🎯 Technical Skill Proficiency
 
@@ -145,10 +140,8 @@ Here are some ideas to get you started:
 
 **Average: 79.9%** • **Strongest: Web Dev** • **Growing: Flutter & Spring Boot**
 
-</div>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### ⏱️ Weekly Development Activity
 
@@ -165,20 +158,15 @@ Here are some ideas to get you started:
 
 **📅 Total:** x m • **🔥 Streak:** x days • **⭐ Best Day:** Wenesday • **🎯 Daily Avg:** 4.4h
 
-</div>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
----
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=2000&pause=500&color=Ec4899&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%9A%80+Featured+Work" alt="Featured Work" />
 </div>
 
-
 <div align="center">
-
-##### 💼 Selected Projects
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%8E%AF+Selected+Projects"
+</div>
 
 <table>
 <tr>
@@ -239,18 +227,58 @@ Aplikasi order makanan dengan fitur lengkap dan **open source**. Deployed di Ver
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%9B%A0%EF%B8%8F+My+Tech+Journey" alt="My Tech Journey" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%9B%A0%EF%B8%8F+My+Tech+Journey" alt="My Tech Journey" />
 </div>
 
-**🌟 What I've Achieved:**
 
-- ☁️ **AWS Cloud Computing** - 🥉 3rd Place (SMK Level, 2025)
-- 🤖 **Robotics Competition** - 🥉 3rd Place (Otonom, 2024)
-- 🎨 **Drawing Competition** - 🥇 1st Place (SMP Level, 2023)
-- 💻 **3+ Open Source Projects** - Used by real users
-- 🎓 **Self-Taught Developer** - Java, PHP, React, Arduino, IoT
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Why%20It%20Matters&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40" width="100%"/>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="Design"/>
+<br/>
+<b>Design Thinking</b><br/>
+<sub>UI/UX</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" alt="Music"/>
+<br/>
+<b>Pattern Recognition</b><br/>
+<sub>Music & Guitar</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="Cooking"/>
+<br/>
+<b>Process Optimization</b><br/>
+<sub>Cooking</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" alt="Writing"/>
+<br/>
+<b>Storytelling</b><br/>
+<sub>Novel Writing</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" alt="Gaming"/>
+<br/>
+<b>Strategic Thinking</b><br/>
+<sub>Gaming</sub>
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
+
 
 **📚 Currently Learning:**
 - Cloud Computing (AWS)
@@ -416,7 +444,7 @@ Punya project idea? Butuh developer? Atau sekadar mau ngobrol tentang tech? **Fe
 
 #####
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 # 📊 GitHub Stats:
 
