@@ -236,7 +236,7 @@ Aplikasi order makanan dengan fitur lengkap dan **open source**. Deployed di Ver
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Why%20It%20Matters&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:1a1a1a,50:2d3748,100:4a5568&height=150&section=header&text=Why%20It%20Matters&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <br/>
 
@@ -275,7 +275,7 @@ Aplikasi order makanan dengan fitur lengkap dan **open source**. Deployed di Ver
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d3748,100:4a5568&height=100&section=footer" width="100%"/>
 
 </div>
 
@@ -292,12 +292,54 @@ Aplikasi order makanan dengan fitur lengkap dan **open source**. Deployed di Ver
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=900&height=60&lines=%F0%9F%92%A1+My+Approach+to+Tech" alt="My Approach" />
 </div>
 
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="Step 1"/>
+<br/>
+<img src="https://img.shields.io/badge/STEP_1-Curiosity_Driven-00CFFF?style=for-the-badge&labelColor=1a1a1a"/>
+<br/><br/>
+<sub>Rasa ingin tahu yang tinggi mendorong saya untuk terus belajar</sub>
+</td>
+<td align="center" width="5%">
+<h2>→</h2>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" alt="Step 2"/>
+<br/>
+<img src="https://img.shields.io/badge/STEP_2-Hands_On_Learning-10B981?style=for-the-badge&labelColor=1a1a1a"/>
+<br/><br/>
+<sub>Belajar dengan praktik, bukan hanya teori</sub>
+</td>
+<td align="center" width="5%">
+<h2>→</h2>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="Step 3"/>
+<br/>
+<img src="https://img.shields.io/badge/STEP_3-Open_Source-8B5CF6?style=for-the-badge&labelColor=1a1a1a"/>
+<br/><br/>
+<sub>Berbagi ilmu dan kode dengan komunitas</sub>
+</td>
+<td align="center" width="5%">
+<h2>→</h2>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" alt="Step 4"/>
+<br/>
+<img src="https://img.shields.io/badge/STEP_4-Problem_Solving-EC4899?style=for-the-badge&labelColor=1a1a1a"/>
+<br/><br/>
+<sub>Fokus pada solusi yang impactful dan practical</sub>
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d3748,100:4a5568&height=100&section=footer" width="100%"/>
+
 </div>
 
-1. **Curiosity-Driven** - Rasa ingin tahu yang tinggi mendorong saya untuk terus belajar
-2. **Hands-On Learning** - Belajar dengan praktik, bukan hanya teori
-3. **Open Source Mindset** - Berbagi ilmu dan kode dengan komunitas
-4. **Problem-Solving Focus** - Fokus pada solusi yang **impactful** dan **practical**
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%8E%AF+2025+Goals" alt="2025 Goals" />
@@ -306,7 +348,7 @@ Aplikasi order makanan dengan fitur lengkap dan **open source**. Deployed di Ver
 
 | Goal | Status | Target |
 |:---|:---:|:---|
-| 🚀 Deploy 5+ Production Apps | 🔄 In Progress | June 2025 |
+| 🚀 Deploy 7+ Production Apps | 🔄 In Progress | June 2025 |
 | ☁️ AWS Certification | 📚 Studying | December 2025 |
 | 🤖 Advanced AI/ML Project | 🌱 Planning | Q3 2025 |
 | 🏆 Win Tech Competition | 🎯 Ongoing | Throughout 2025 |
