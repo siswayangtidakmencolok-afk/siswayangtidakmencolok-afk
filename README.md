@@ -7,10 +7,11 @@
 
 <img src="img/github-header-banner.png" alt="Profile Banner" width="80%" style="border-radius: 10px;"/>
 
-___
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80%">
+
   <!-- Teks Tengah Animated -->
   <div style="margin-top: -20px; margin-bottom: 10px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=10&size=30&duration=900&pause=1000&color=EC4899&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Student•Developer•Creative+Technologist;Student+at+SMK+YpIppi+Jakarta;📍+based+in+Jakarta+Indonesia" alt="Animated Center Text" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=10&size=30&duration=900&pause=1000&color=EC4899&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Student•Developer•Creative+Technologist;Student+at+SMK+YpIppi+Jakarta;+based+in+Jakarta+Indonesia" alt="Animated Center Text" />
   </div>
 
 <div align="center">
