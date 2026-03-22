@@ -1,20 +1,17 @@
 <!-- Version 2: All-in-one dengan spacing lebih rapat -->
+<!-- Wave Header -->
 <div align="center">
-  <!-- Wave Header -->
   <img width="100%" height="250" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Selamat%20Datang%20di%20Akun%20Fhazwan&fontSize=50&fontColor=FFFFFF&fontAlignY=28&animation=twinkling&desc=DEVELOPER%20%7C%20PROBLEM%20SOLVER&descSize=20&descAlignY=48&color=0:1a1a1a,50:2d3748,100:4a5568" />
+</div>
+
+<!-- Teks Animated Subtitle -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=EC4899&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Student+•+Developer+•+Creative+Technologist;Student+at+SMK+YP+IPPI+Jakarta;Based+in+Jakarta%2C+Indonesia+🏙️" alt="Subtitle" />
+</div>
+
+<br/>
 
 <img src="img/github-header-banner.png" alt="Profile Banner" width="80%" style="border-radius: 10px;"/>
-
- <!-- Teks Tengah Animated -->
-<div align="center">
-  <table>
-    <tr>
-      <td style="padding-top: 0; padding-bottom: 0;">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&color=EC4899&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Student+•+Developer+•+Creative+Technologist;Student+at+SMK+YP+IPPI+Jakarta;Based+in+Jakarta%2C+Indonesia+🏙️" alt="Animated Text" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 <!-- Profile Stats Bar -->
 <div align="center">
@@ -22,6 +19,8 @@
   <img src="https://img.shields.io/github/followers/siswayangtidakmencolok-afk?style=for-the-badge&color=blue&label=FOLLOWERS" />
   <img src="https://img.shields.io/github/stars/siswayangtidakmencolok-afk?style=for-the-badge&color=yellow&label=TOTAL+STARS" />
 </div>
+
+<br/>
 
 <div align="center">
 <br>
