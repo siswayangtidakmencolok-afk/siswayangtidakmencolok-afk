@@ -563,9 +563,9 @@ Punya project idea? Butuh developer? Atau sekadar mau ngobrol tentang tech? **Fe
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="105" height="25" alt="visualstudio logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/wechat/default.svg" width="105" height="25" alt="wechat logo"  />
-<a href="https://tiktok.com/@www.tiktok.com/eksrovertselalu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tiktok/default.svg" width="52" height="40" alt="tiktok" />
-  </a>
+<a href="https://www.tiktok.com/@eksrovertselalu" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tiktok/default.svg" width="52" height="40" alt="tiktok" />
+</a>
   <a href="https://v.douyin.com/iV_CXQKGq9U/ 复制此链接，打开Dou音搜索，直接观看视频" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tiktok/default.svg" width="52" height="40" alt="douyin" />
   </a>
