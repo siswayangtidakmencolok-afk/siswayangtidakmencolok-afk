@@ -55,29 +55,71 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=Itulah+yang+membawa+saya+masuk+RPL;Untuk+menambah+wawasan+pemrograman;dan+mengasah+berbagai+keahlian" alt="Closing" />
 </div>
 
-
+<!-- Animated Title -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=ec4899&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%8E%A8+Beyond+Coding" alt="Beyond Coding" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=800&height=70&lines=Beyond+Coding+%F0%9F%8E%A8" alt="Title" />
 </div>
 
-Saya percaya bahwa **kreativitas** adalah kunci inovasi. Di luar dunia programming, saya juga:
+<!-- Hook Statement -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00CFFF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=60&lines=I'm+not+just+a+developer.;I'm+a+multi-dimensional+creator." alt="Hook" />
+</div>
 
+<br/>
+
+<!-- Glowing Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<br/>
+
+<!-- Three Pillars -->
 <div align="center">
 
-| 🎨 Creative Arts | 💪 Active Lifestyle | 📚 Intellectual Pursuits |
-|:---:|:---:|:---:|
-| **Menggambar** (🥇 Competition Winner) | **Gym & Jogging** | **Membaca Manga** |
-| **Photo/Video Editing** | **Guitar Playing 🎸** | **Menulis Novel** |
-| **UI/UX Design** | **Memasak 🍳** | **Gaming Strategy 🎮** |
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="150"/>
+<br/><br/>
+<h3>🎨 Creator</h3>
+<sub>Drawing • Editing • UI/UX<br/><b>🥇 Competition Winner</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="150"/>
+<br/><br/>
+<h3>💪 Optimizer</h3>
+<sub>Gym • Guitar • Cooking<br/><b>Discipline & Process</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="150"/>
+<br/><br/>
+<h3>📚 Strategist</h3>
+<sub>Manga • Writing • Gaming<br/><b>Think Ahead</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
-**Why it matters?** Semua hobi ini **membentuk cara saya berpikir**:
-- 🎨 **Design thinking** dari drawing & UI/UX
-- 🎸 **Pattern recognition** dari musik
-- 🍳 **Process optimization** dari memasak
-- 📖 **Storytelling** dari novel writing
-- 🎮 **Strategic thinking** dari gaming
+<br/>
+
+<!-- Impact Section -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:2d3748&height=3" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=600&height=50&lines=The+Impact%3A" alt="Impact Title" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/🎨-Design_Thinking-FF6B9D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎸-Pattern_Recognition-C780E8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🍳-Process_Optimization-9EE76E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📖-Storytelling-FFA500?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎮-Strategic_Thinking-00D9FF?style=for-the-badge"/>
+
+</div>
 
 <!--
 <div>
