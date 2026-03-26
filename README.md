@@ -204,9 +204,10 @@ Here are some ideas to get you started:
 | 🗄️ MySQL/SQL | m | 89.0% ██████████████████░░░ |
 | 🎨 HTML/CSS | m | 60.1% █████████████░░░░░░░░ |
 | ⚡ JavaScript | m | 40.5% ████████░░░░░░░░░░░░░ |
-| 🔥 Java | m | 28.5% ████░░░░░░░░░░░░░░░░░ |
+| 📲 PHP | m | 70.2% ██████████████░░░░░░░ |
 | 🤖 Arduino/C++ | m | 7.1% █░░░░░░░░░░░░░░░░░░░░ |
-| 📱 Flutter/Dart | m | 3.9% ░░░░░░░░░░░░░░░░░░░░░ |
+| ⚛️ ReactNative | m | 92.0% ███████████████████░░ |
+| 📱 Flutter/Dart | m | 19.0% ███░░░░░░░░░░░░░░░░░ |
 
 **📅 Total:** x m • **🔥 Streak:** x days • **⭐ Best Day:** Wenesday • **🎯 Daily Avg:** 4.4h
 
