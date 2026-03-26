@@ -206,7 +206,7 @@ Here are some ideas to get you started:
 | ⚡ JavaScript | m | 40.5% ████████░░░░░░░░░░░░░ |
 | 📲 PHP | m | 70.2% ██████████████░░░░░░░ |
 | 🤖 Arduino/C++ | m | 7.1% █░░░░░░░░░░░░░░░░░░░░ |
-| ⚛️ ReactNative | m | 92.0% ███████████████████░░ |
+| 🐍 Python | m | 80.0% ██████████████████░░░ |
 | 📱 Flutter/Dart | m | 19.0% ███░░░░░░░░░░░░░░░░░ |
 
 **📅 Total:** x m • **🔥 Streak:** x days • **⭐ Best Day:** Wenesday • **🎯 Daily Avg:** 4.4h
