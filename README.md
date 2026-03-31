@@ -207,6 +207,7 @@ Here are some ideas to get you started:
 | 📲 PHP | m | 70.2% ██████████████░░░░░░░ |
 | 🤖 Arduino/C++ | m | 7.1% █░░░░░░░░░░░░░░░░░░░░ |
 | 🐍 Python | m | 80.0% ██████████████████░░░ |
+| 📱 Kotlin | m | 10.0% █░░░░░░░░░░░░░░░░░░░░ |
 | 📱 Flutter/Dart | m | 19.0% ███░░░░░░░░░░░░░░░░░ |
 
 **📅 Total:** x m • **🔥 Streak:** x days • **⭐ Best Day:** Wenesday • **🎯 Daily Avg:** 4.4h
