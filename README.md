@@ -18,11 +18,6 @@
   
 </div>
 
-<!-- Teks Animated Subtitle -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=EC4899&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Student+•+Developer+•+Creative+Technologist;Student+at+SMK+YP+IPPI+Jakarta;Based+in+Jakarta%2C+Indonesia+🏙️" alt="Subtitle" />
-</div>
-
 <br/>
 
 
@@ -204,7 +199,7 @@ Here are some ideas to get you started:
 | 🗄️ MySQL/SQL | m | 89.0% ██████████████████░░░ |
 | 🎨 HTML/CSS | m | 60.1% █████████████░░░░░░░░ |
 | ⚡ JavaScript | m | 40.5% ████████░░░░░░░░░░░░░ |
-| 🔥 Java | m | 28.5% ████░░░░░░░░░░░░░░░░░ |
+| 🟣 PHP | m | 28.5% █████████████░░░░░░░░ |
 | 🤖 Arduino/C++ | m | 7.1% █░░░░░░░░░░░░░░░░░░░░ |
 | 📱 Flutter/Dart | m | 3.9% ░░░░░░░░░░░░░░░░░░░░░ |
 
@@ -597,22 +592,6 @@ Punya project idea? Butuh developer? Atau sekadar mau ngobrol tentang tech? **Fe
 
 </div>
 
-
-###### *🎵 Featured Playlist*
-
-<div align="center">
-  <a href="https://open.spotify.com/playlist/5bBrtSOdTKWBD8oudp481p">
-    <img src="img/playlist_cover.jpg" alt="My Playlist" width="300" style="border-radius: 10px;" />
-  </a>
-  
-  <p>
-    <a href="https://open.spotify.com/playlist/5bBrtSOdTKWBD8oudp481p">
-      <img src="https://img.shields.io/badge/▶️-Listen_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-    </a>
-  </p>
-  
-</div>
-
 <div align="center">
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHo0M3liczB1emlrcGJrc2s2aTBiMGRlN2JseHl4dXpyb2VlMGR0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IfPE0x5gfa5ctKpph6/giphy.gif"  />
 </div>
@@ -641,18 +620,7 @@ Punya project idea? Butuh developer? Atau sekadar mau ngobrol tentang tech? **Fe
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=siswayangtidakmencolok-afk&show_icons=true&theme=dracula" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=siswayangtidakmencolok-afk&theme=dracula" height="280" alt="streak graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=siswayangtidakmencolok-afk&radius=16&theme=dracula&area=true&order=5" height="150" alt="activity-graph graph"  />
-  
-## 🏆 GitHub Achievements
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app?username=siswayangtidakmencolok-afk&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-
-<sub>🌱 Building up achievements...</sub>
-
 </div>
-
----
 <!--  End Stats Cards -->
 
 <!-- Medium Articles Section -->
