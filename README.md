@@ -4,6 +4,10 @@
   <img width="100%" height="250" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Selamat%20Datang%20di%20Akun%20Fhazwan&fontSize=50&fontColor=FFFFFF&fontAlignY=28&animation=twinkling&desc=DEVELOPER%20%7C%20PROBLEM%20SOLVER&descSize=20&descAlignY=48&color=0:1a1a1a,50:2d3748,100:4a5568" />
 </div>
 
+<!-- Teks Animated Subtitle -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=EC4899&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Student+•+Developer+•+Creative+Technologist;Student+at+SMK+YP+IPPI+Jakarta;Based+in+Jakarta%2C+Indonesia+🏙️" alt="Subtitle" />
+</div>
 <!-- Banner dengan Foto + Animated Border -->
 <div align="center">
   
@@ -18,10 +22,6 @@
   
 </div>
 
-<!-- Teks Animated Subtitle -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=EC4899&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Student+•+Developer+•+Creative+Technologist;Student+at+SMK+YP+IPPI+Jakarta;Based+in+Jakarta%2C+Indonesia+🏙️" alt="Subtitle" />
-</div>
 
 <br/>
 
@@ -597,22 +597,6 @@ Punya project idea? Butuh developer? Atau sekadar mau ngobrol tentang tech? **Fe
 | 3 | Love Not Me | Ravyn Lenae | [![Spotify](https://img.shields.io/badge/▶️-Listen-1DB954?style=flat-square&logo=spotify)](https://open.spotify.com/intl-id/track/1UNEuG9DYOWiikf00ayr52?si=d542dc4237f94d7f) |
 | 4 | Cook Pardon | Lvbel C5 | [![Spotify](https://img.shields.io/badge/▶️-Listen-1DB954?style=flat-square&logo=spotify)](https://open.spotify.com/intl-id/track/0P45YtqtAT6AkNDDX1lySE?si=cb19fbbbac444202) |
 
-</div>
-
-
-###### *🎵 Featured Playlist*
-
-<div align="center">
-  <a href="https://open.spotify.com/playlist/5bBrtSOdTKWBD8oudp481p">
-    <img src="img/playlist_cover.jpg" alt="My Playlist" width="300" style="border-radius: 10px;" />
-  </a>
-  
-  <p>
-    <a href="https://open.spotify.com/playlist/5bBrtSOdTKWBD8oudp481p">
-      <img src="https://img.shields.io/badge/▶️-Listen_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-    </a>
-  </p>
-  
 </div>
 
 <div align="center">
