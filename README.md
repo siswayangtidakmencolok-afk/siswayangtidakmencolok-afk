@@ -4,10 +4,6 @@
   <img width="100%" height="250" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Selamat%20Datang%20di%20Akun%20Fhazwan&fontSize=50&fontColor=FFFFFF&fontAlignY=28&animation=twinkling&desc=DEVELOPER%20%7C%20PROBLEM%20SOLVER&descSize=20&descAlignY=48&color=0:1a1a1a,50:2d3748,100:4a5568" />
 </div>
 
-<!-- Teks Animated Subtitle -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=EC4899&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Student+•+Developer+•+Creative+Technologist;Student+at+SMK+YP+IPPI+Jakarta;Based+in+Jakarta%2C+Indonesia+🏙️" alt="Subtitle" />
-</div>
 <!-- Banner dengan Foto + Animated Border -->
 <div align="center">
   
