@@ -172,7 +172,7 @@ Here are some ideas to get you started:
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### 🎯 Technical Skill Proficiency
-
+<!--
 <div align="center">
 
 | Technology | Level | Mastery |
@@ -187,7 +187,108 @@ Here are some ideas to get you started:
 | 📱 Flutter | Kurang Mahir | 40% ████████░░░░░░░░░░░░░░░░ |
 
 **Average: 79.9%** • **Strongest: Web Dev** • **Growing: Flutter & Spring Boot**
+-->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=900&height=60&lines=%F0%9F%92%BB+Tech+Stack+%26+Proficiency" alt="Tech Stack" />
+</div>
 
+<br/>
+
+<!-- Glowing Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<br/>
+
+<div align="center">
+
+### 🔥 Expert Level (85-100%)
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=java" width="80"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Java-90%25-00CFFF?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<br/><br/>
+<sub>OOP, Data Structures,<br/>Algorithms, Spring</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=html,css,js" width="240"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Web_Development-90%25-00CFFF?style=for-the-badge&logo=html5&logoColor=white"/>
+<br/><br/>
+<sub>HTML5, CSS3, JavaScript,<br/>Responsive Design</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=git,github" width="160"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Git_&_GitHub-85%25-00CFFF?style=for-the-badge&logo=git&logoColor=white"/>
+<br/><br/>
+<sub>Version Control, Collaboration,<br/>Open Source</sub>
+</td>
+</tr>
+</table>
+
+### ⚡ Advanced Level (75-84%)
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=mysql" width="80"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/MySQL-82%25-10B981?style=for-the-badge&logo=mysql&logoColor=white"/>
+<br/><br/>
+<sub>Database Design, Queries, Optimization</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=figma" width="80"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/UI/UX_Design-77%25-10B981?style=for-the-badge&logo=figma&logoColor=white"/>
+<br/><br/>
+<sub>Figma, Prototyping, User Research</sub>
+</td>
+</tr>
+</table>
+
+### 🎯 Intermediate Level (60-74%)
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=arduino" width="80"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Robotics-73%25-8B5CF6?style=for-the-badge&logo=arduino&logoColor=white"/>
+<br/><br/>
+<sub>IoT, Sensors, Embedded</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=spring" width="80"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Spring_Boot-70%25-8B5CF6?style=for-the-badge&logo=springboot&logoColor=white"/>
+<br/><br/>
+<sub>REST APIs, Microservices</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=flutter" width="80"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Flutter-60%25-8B5CF6?style=for-the-badge&logo=flutter&logoColor=white"/>
+<br/><br/>
+<sub>Mobile Development</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=EC4899&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%9A%80+Always+learning%2C+always+growing%2C+always+coding." alt="Motto" />
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d3748,100:4a5568&height=100&section=footer" width="100%"/>
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
