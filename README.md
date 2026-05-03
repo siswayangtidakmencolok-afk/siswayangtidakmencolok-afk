@@ -381,26 +381,47 @@ Aplikasi order makanan dengan fitur lengkap dan **open source**. Deployed di Ver
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
 
-<!-- Animated Innovation Lab Section -->
+<!-- 🌟 THE INNOVATION LAB (ULTRA-AESTHETIC) 🌟 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=800&height=70&lines=%E2%9C%A8+Next+Big+Innovation" alt="Innovation Ideas" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:1a1a1a,50:2d3748,100:4a5568&height=120&section=header&text=The%20Next%20Masterpiece&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <!-- Glowing animated banner -->
   <a href="https://github.com/siswayangtidakmencolok-afk/aws-server">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=2,5,10&height=200&section=header&text=AI%20Telemedicine%20&%20IoT%20Ecosystem&fontSize=35&fontColor=ffffff&animation=twinkling&desc=Developing%20Serverless%20Architecture%20with%20Amazon%20Bedrock%20&%20Smartwatch%20Sync&descSize=18&descAlignY=65&stroke=00CFFF&strokeWidth=2" width="90%"/>
+    <!-- GitHub Repo Pin Card (Futuristic Theme) -->
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siswayangtidakmencolok-afk&repo=aws-server&theme=tokyonight&show_owner=true&border_color=00D9FF&border_radius=15&title_color=EC4899" alt="Repo Card"/>
   </a>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=00CFFF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=130&lines=%F0%9F%A4%96+Integrating+GenAI+for+automated+symptom+checker...;%E2%8C%9A+Building+real-time+vital+sync+via+IoT...;%F0%9F%A7%A0+Exploring+Machine+Learning+for+predictive+analytics...;%F0%9F%9A%80+Preparing+to+launch+the+future+of+digital+healthcare!" alt="Idea Details" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-In_R&D_Phase-FF6B9D?style=for-the-badge&logo=rocket&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tech-AWS_Serverless_%7C_Vue3-8B5CF6?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Target-2026-00D9FF?style=for-the-badge&logo=target&logoColor=white"/>
+  <!-- Terminal IDE Window Holographic -->
+  <table width="800" style="border-collapse: collapse; border-radius: 12px; overflow: hidden; box-shadow: 0 0 25px rgba(0, 217, 255, 0.3);">
+    <tr bgcolor="#161b22">
+      <td colspan="2" style="padding: 10px 15px;">
+        <span style="color:#ff5f56; font-size: 16px;">⬤</span> <span style="color:#ffbd2e; font-size: 16px;">⬤</span> <span style="color:#27c93f; font-size: 16px;">⬤</span>
+        <code style="color: #8b949e; background: transparent; margin-left: 15px; font-size: 14px;">~/innovation-lab/aws-server - bash</code>
+      </td>
+    </tr>
+    <tr bgcolor="#0d1117">
+      <td width="30%" align="center" style="padding: 15px; border-right: 1px solid #30363d;">
+        <!-- Tech Hacker GIF -->
+        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" style="border-radius: 8px; filter: hue-rotate(190deg) brightness(1.2);" />
+      </td>
+      <td width="70%" align="left" style="padding: 15px;">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=1000&color=00D9FF&multiline=true&repeat=true&width=550&height=120&lines=~%24+./deploy_telemedicine.sh;[+]+Initializing+AWS+Serverless+Architecture...;[+]+Connecting+IoT+Smartwatch+Sensors...;[+]+Loading+Amazon+Bedrock+GenAI...;[OK]+System+Online.+Ready+to+change+the+world!" alt="Terminal Output" />
+        <br/><br/>
+        <div align="center">
+          <img src="https://img.shields.io/badge/AWS_Serverless-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+          <img src="https://img.shields.io/badge/IoT_Integration-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Amazon_Bedrock-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
