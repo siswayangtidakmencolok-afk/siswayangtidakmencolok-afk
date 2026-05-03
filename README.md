@@ -731,7 +731,7 @@ Punya project idea? Butuh developer? Atau sekadar mau ngobrol tentang tech? **Fe
 
 ##### 🎵 Current Favorites
 
-<div align="center">
+<di align="center">
 
 | # | Track | Artist | Spotify |
 |---|-------|--------|---------|
@@ -739,12 +739,6 @@ Punya project idea? Butuh developer? Atau sekadar mau ngobrol tentang tech? **Fe
 | 2 | COLLIDE | JUstin Skye | [![Spotify](https://img.shields.io/badge/▶️-Listen-1DB954?style=flat-square&logo=spotify)](https://open.spotify.com/intl-id/track/22I3h5AOENlH4CqXJsEbFR?si=d208429b6e714a74) |
 | 3 | Love Not Me | Ravyn Lenae | [![Spotify](https://img.shields.io/badge/▶️-Listen-1DB954?style=flat-square&logo=spotify)](https://open.spotify.com/intl-id/track/1UNEuG9DYOWiikf00ayr52?si=d542dc4237f94d7f) |
 | 4 | Cook Pardon | Lvbel C5 | [![Spotify](https://img.shields.io/badge/▶️-Listen-1DB954?style=flat-square&logo=spotify)](https://open.spotify.com/intl-id/track/0P45YtqtAT6AkNDDX1lySE?si=cb19fbbbac444202) |
-
-</div>
-
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHo0M3liczB1emlrcGJrc2s2aTBiMGRlN2JseHl4dXpyb2VlMGR0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IfPE0x5gfa5ctKpph6/giphy.gif"  />
-</div>
 
 
 <div align="center">
