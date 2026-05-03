@@ -336,6 +336,7 @@ Autonomous robot dengan AI navigation system yang bisa mendeteksi objek dan meng
 
 **🏆 Achievement:** 🥉 3rd Place Otonom Competition 2024
 
+[Lihat web demo](https://main.d23iqypw1iesnh.amplifyapp.com/)
 [View Project →](https://github.com/siswayangtidakmencolok-afk/Teacher-Absence)
 
 </td>
@@ -379,6 +380,30 @@ Aplikasi order makanan dengan fitur lengkap dan **open source**. Deployed di Ver
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+
+<!-- Animated Innovation Lab Section -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=800&height=70&lines=%E2%9C%A8+Next+Big+Innovation" alt="Innovation Ideas" />
+</div>
+
+<div align="center">
+  <!-- Glowing animated banner -->
+  <a href="https://github.com/siswayangtidakmencolok-afk/aws-server">
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=2,5,10&height=200&section=header&text=AI%20Telemedicine%20&%20IoT%20Ecosystem&fontSize=35&fontColor=ffffff&animation=twinkling&desc=Developing%20Serverless%20Architecture%20with%20Amazon%20Bedrock%20&%20Smartwatch%20Sync&descSize=18&descAlignY=65&stroke=00CFFF&strokeWidth=2" width="90%"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=00CFFF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=130&lines=%F0%9F%A4%96+Integrating+GenAI+for+automated+symptom+checker...;%E2%8C%9A+Building+real-time+vital+sync+via+IoT...;%F0%9F%A7%A0+Exploring+Machine+Learning+for+predictive+analytics...;%F0%9F%9A%80+Preparing+to+launch+the+future+of+digital+healthcare!" alt="Idea Details" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-In_R&D_Phase-FF6B9D?style=for-the-badge&logo=rocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tech-AWS_Serverless_%7C_Vue3-8B5CF6?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Target-2026-00D9FF?style=for-the-badge&logo=target&logoColor=white"/>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%9B%A0%EF%B8%8F+My+Tech+Journey" alt="My Tech Journey" />
