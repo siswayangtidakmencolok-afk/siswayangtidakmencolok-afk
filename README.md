@@ -336,6 +336,7 @@ Autonomous robot dengan AI navigation system yang bisa mendeteksi objek dan meng
 
 **🏆 Achievement:** 🥉 3rd Place Otonom Competition 2024
 
+[Lihat web demo](https://main.d23iqypw1iesnh.amplifyapp.com/)
 [View Project →](https://github.com/siswayangtidakmencolok-afk/Teacher-Absence)
 
 </td>
@@ -379,6 +380,51 @@ Aplikasi order makanan dengan fitur lengkap dan **open source**. Deployed di Ver
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+
+<!-- 🌟 THE INNOVATION LAB (ULTRA-AESTHETIC) 🌟 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:1a1a1a,50:2d3748,100:4a5568&height=120&section=header&text=The%20Next%20Masterpiece&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/siswayangtidakmencolok-afk/aws-server">
+    <!-- GitHub Repo Pin Card (Futuristic Theme) -->
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siswayangtidakmencolok-afk&repo=aws-server&theme=tokyonight&show_owner=true&border_color=00D9FF&border_radius=15&title_color=EC4899" alt="Repo Card"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Terminal IDE Window Holographic -->
+  <table width="800" style="border-collapse: collapse; border-radius: 12px; overflow: hidden; box-shadow: 0 0 25px rgba(0, 217, 255, 0.3);">
+    <tr bgcolor="#161b22">
+      <td colspan="2" style="padding: 10px 15px;">
+        <span style="color:#ff5f56; font-size: 16px;">⬤</span> <span style="color:#ffbd2e; font-size: 16px;">⬤</span> <span style="color:#27c93f; font-size: 16px;">⬤</span>
+        <code style="color: #8b949e; background: transparent; margin-left: 15px; font-size: 14px;">~/innovation-lab/aws-server - bash</code>
+      </td>
+    </tr>
+    <tr bgcolor="#0d1117">
+      <td width="30%" align="center" style="padding: 15px; border-right: 1px solid #30363d;">
+        <!-- Tech Hacker GIF -->
+        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" style="border-radius: 8px; filter: hue-rotate(190deg) brightness(1.2);" />
+      </td>
+      <td width="70%" align="left" style="padding: 15px;">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=1000&color=00D9FF&multiline=true&repeat=true&width=550&height=120&lines=~%24+./deploy_telemedicine.sh;[+]+Initializing+AWS+Serverless+Architecture...;[+]+Connecting+IoT+Smartwatch+Sensors...;[+]+Loading+Amazon+Bedrock+GenAI...;[OK]+System+Online.+Ready+to+change+the+world!" alt="Terminal Output" />
+        <br/><br/>
+        <div align="center">
+          <img src="https://img.shields.io/badge/AWS_Serverless-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+          <img src="https://img.shields.io/badge/IoT_Integration-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Amazon_Bedrock-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%9B%A0%EF%B8%8F+My+Tech+Journey" alt="My Tech Journey" />
