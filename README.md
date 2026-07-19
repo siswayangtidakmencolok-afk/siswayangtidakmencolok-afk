@@ -749,6 +749,78 @@ Punya project idea? Butuh developer? Atau sekadar mau ngobrol tentang tech? **Fe
 
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  📈 STOCK PORTFOLIO SECTION                                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=22c55e&center=true&vCenter=true&width=700&height=60&lines=📈+My+Stock+Portfolio+(IDX)" alt="Stock Portfolio" />
+</div>
+
+<div align="center">
+
+> 🔄 **Auto-updated every 30 minutes** during trading hours via GitHub Actions + yfinance
+
+<img src="https://raw.githubusercontent.com/siswayangtidakmencolok-afk/siswayangtidakmencolok-afk/output/stock_portfolio.svg" alt="Stock Portfolio — ASII & ARCI" width="540"/>
+
+<br/>
+
+<!-- Backup: Manual badges when SVG not yet generated -->
+<a href="https://finance.yahoo.com/quote/ASII.JK">
+  <img src="https://img.shields.io/badge/ASII-Astra%20International-00CFFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQTEwIDEwIDAgMCAwIDIgMTJhMTAgMTAgMCAwIDAgMTAgMTAgMTAgMTAgMCAwIDAgMTAtMTBBMTAgMTAgMCAwIDAgMTIgMnoiLz48L3N2Zz4=&labelColor=1a1a1a"/>
+</a>
+<a href="https://finance.yahoo.com/quote/ARCI.JK">
+  <img src="https://img.shields.io/badge/ARCI-Archi%20Indonesia%20(Gold)-FFD700?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQTEwIDEwIDAgMCAwIDIgMTJhMTAgMTAgMCAwIDAgMTAgMTAgMTAgMTAgMCAwIDAgMTAtMTBBMTAgMTAgMCAwIDAgMTIgMnoiLz48L3N2Zz4=&labelColor=1a1a1a"/>
+</a>
+
+<br/><br/>
+
+| Saham | Perusahaan | Sektor | Lihat Chart |
+|:---:|:---|:---|:---:|
+| **ASII** | PT Astra International Tbk | 🚗 Otomotif & Diversified | [📊 TradingView](https://www.tradingview.com/symbols/IDX-ASII/) |
+| **ARCI** | PT Archi Indonesia Tbk | ⛏️ Gold Mining | [📊 TradingView](https://www.tradingview.com/symbols/IDX-ARCI/) |
+
+<sub>📌 Data diperbarui otomatis via <a href=".github/workflows/stock-update.yml">GitHub Actions</a> • Sumber: <a href="https://finance.yahoo.com">Yahoo Finance</a></sub>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  🎵 SPOTIFY NOW PLAYING SECTION                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=1DB954&center=true&vCenter=true&width=700&height=60&lines=🎵+Now+Playing+on+Spotify" alt="Spotify Now Playing" />
+</div>
+
+<div align="center">
+
+> 🎧 **Realtime** — diupdate setiap kali halaman ini dibuka!
+
+[![Spotify Now Playing](https://fhazwan-spotify-now-playing.vercel.app/api/spotify)](https://open.spotify.com/user/fhazwan)
+
+<br/>
+
+##### 🎵 Current Favorites
+
+| # | Track | Artist | Play |
+|:---:|:---|:---|:---:|
+| 1 | Cook Pardon | Lvbel C5 | [![Play](https://img.shields.io/badge/▶-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/06KyNuuMOX1ROXRhj787tj) |
+| 2 | We Don't Talk Anymore | Charlie Puth ft. Selena Gomez | [![Play](https://img.shields.io/badge/▶-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) |
+| 3 | COLLIDE | Justin Skye | [![Play](https://img.shields.io/badge/▶-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/intl-id/track/22I3h5AOENlH4CqXJsEbFR) |
+| 4 | Love Not Me | Ravyn Lenae | [![Play](https://img.shields.io/badge/▶-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/intl-id/track/1UNEuG9DYOWiikf00ayr52) |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
 # 📊 GitHub Stats:
 
 
