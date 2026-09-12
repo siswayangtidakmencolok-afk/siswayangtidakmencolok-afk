@@ -821,21 +821,15 @@ Punya project idea? Butuh developer? Atau sekadar mau ngobrol tentang tech? **Fe
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siswayangtidakmencolok-afk&layout=compact&theme=dracula&hide_border=true" height="180" alt="Most Used Languages">
 
-<!-- Begin Stats Cards -->
-<!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- Change the value after ?username= to your GitHub username. -->
+<img src="https://streak-stats.demolab.com?user=siswayangtidakmencolok-afk&theme=dracula&hide_border=true" height="180" alt="GitHub Streak">
 
-
-![Most Used Languages](https://forked-github-readme-stats-one.vercel.app/api/top-langs/?username=siswayangtidakmencolok-afk&layout=compact&count_private=true&show_icons=true&theme=dracula&border_radius=10)
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=siswayangtidakmencolok-afk&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=siswayangtidakmencolok-afk&theme=dracula" height="280" alt="streak graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siswayangtidakmencolok-afk&radius=16&theme=dracula&area=true&order=5" height="150" alt="activity-graph graph"  />
+</div>
   
 ## 🏆 GitHub Achievements
 
