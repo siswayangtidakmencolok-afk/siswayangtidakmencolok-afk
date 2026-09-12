@@ -397,135 +397,300 @@ Aplikasi order makanan dengan fitur lengkap dan **open source**. Deployed di Ver
 
 </div>
 
-<br>
-## 🎓 Cloud Computing & Generative AI Educator
+<!-- Top Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-### ☁️ Sagasitas Indonesia
+<br/>
 
-**Cloud Computing & Generative AI Educator**
+<!-- Animated Title -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=500&color=FF9900&center=true&vCenter=true&width=800&height=60&lines=☁️+Becoming+a+Certified+Cloud+Engineer" alt="AWS Journey" />
+</div>
 
-I share practical knowledge about **Cloud Computing and Generative AI** through learning sessions with students, university students, and educators — both in-person and online.
+<br/>
 
-Rather than focusing only on theory, I try to make technology easier to understand through **discussion, demonstrations, and hands-on practice**.
-
-📍 Learning sessions across Indonesia
-
-**What I teach & explore:**
-
-`Cloud Computing` `AWS` `Generative AI`  
-`Amazon PartyRock` `Hands-on Practice` `AI Projects`
-
-### 💻 From Learning → Building
-
-> Technology becomes more meaningful when people don't just learn how it works,
-> but actually get the chance to build something with it.
-
-- ☁️ **Cloud Foundations** — understanding how cloud services work in practice
-- 🤖 **Generative AI** — exploring how AI can become part of real applications
-- 🧪 **Hands-on Labs** — learning by building, testing, and improving
-- 🚀 **Project-Based Learning** — turning concepts into something people can actually try
-
-📄 **Teaching Documentation:**  
-[View Documentation →](docs/sagasitas-teaching-documentation.pdf)
-
-<br>
-
----
-
-## 📜 Certifications & Learning
-
+<!-- Journey Narrative -->
 <div align="center">
 
-### ☁️ AWS Cloud Essentials
+<table>
+<tr>
+<td align="center" width="30%">
 
-**AWS Skill Builder · Knowledge Badge**
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120"/>
 
-**Cloud foundations → hands-on practice → implementation**
+<br/>
 
-Completed the AWS Cloud Essentials learning path and hands-on labs, building a practical understanding of how core AWS services fit together.
+<img src="https://img.shields.io/badge/STATUS-PREPARING-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
-`AWS Cloud` `Core Services` `Cloud Concepts` `Hands-on Labs`
+<br/><br/>
 
-<br>
+<sub>**AIF-C01**<br/>AWS Certified AI Practitioner<br/>In Progress</sub>
 
-### 🤖 AWS Certified AI Practitioner
+</td>
+<td align="left" width="70%" style="padding: 20px;">
 
-**AIF-C01 · Currently Preparing**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=FF9900&multiline=true&repeat=true&width=550&height=130&lines=Currently+exploring%3A;→+AI+%2F+ML+Fundamentals;→+Generative+AI+%26+Foundation+Models;→+Amazon+Bedrock+Architecture;→+Responsible+AI+%26+Security+%26+Governance" alt="Learning Path" />
 
-The next step in my learning journey is understanding AI from more than just the application side.
+<br/><br/>
 
-Currently exploring:
+<div>
+<img src="https://img.shields.io/badge/AI_Fundamentals-Learning-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gen_AI-Exploring-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Bedrock-Hands_On-00CFFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Security_&_Governance-Active-10B981?style=flat-square"/>
+</div>
 
-`AI / ML Fundamentals`  
-`Generative AI` `Foundation Models`  
-`Responsible AI` `Security & Governance`
+</td>
+</tr>
+</table>
 
-<a href="https://aws.amazon.com/certification/certified-ai-practitioner/">
-  <img src="https://img.shields.io/badge/AWS-AI%20Practitioner%20%7C%20Exam%20Preparation-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS AI Practitioner Preparation"/>
+</div>
+
+<br/>
+
+<!-- Philosophy Statement -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:2d3748&height=2" width="70%"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=Belajar+bukan+untuk+mengumpulkan+badge.;Tapi+untuk+membangun+sesuatu+yang+bermakna." alt="Philosophy" />
+
+</div>
+
+<br/>
+
+<!-- Bottom Separator -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d3748,100:4a5568&height=80&section=footer" width="100%"/>
+
+
+<!-- Teaching Experience Section -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d3748,100:4a5568&height=130&section=header&text=Teaching%20Cloud%20Computing&fontSize=35&fontColor=FF9900&animation=twinkling&fontAlignY=50" width="100%"/>
+</div>
+
+<br/>
+
+<!-- Animated Title -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=900&height=55&lines=📡+Cloud+Computing+%26+Generative+AI+Educator" alt="Educator" />
+</div>
+
+<br/>
+
+<!-- Sagasitas Card -->
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="35%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="150"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🏢-Sagasitas_Indonesia-FF9900?style=for-the-badge&labelColor=1a1a1a"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Platform-AWS_Partner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+
+</td>
+<td align="left" width="65%" style="padding: 20px;">
+
+**Apa yang gua ajarkan:**
+
+<br/>
+
+<img src="https://img.shields.io/badge/☁️-Cloud_Foundations-00CFFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/🤖-Generative_AI-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/🧪-Hands_On_Labs-10B981?style=flat-square"/>
+<img src="https://img.shields.io/badge/🚀-Project_Based-EC4899?style=flat-square"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=00CFFF&multiline=true&repeat=true&width=480&height=100&lines=→+Mengajar+Cloud+Computing+secara+praktis;→+Learning+sessions+lintas+Indonesia;→+Bukan+hanya+teori+—+tapi+implementasi;→+Connecting+AI+to+real+use+cases" alt="Teaching Style" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- Teaching Credential - Badge Style + Drive Link -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:2d3748&height=2" width="70%"/>
+
+<br/><br/>
+
+### 📄 Teaching Documentation
+
+<br/>
+
+<a href="LINK_GOOGLE_DRIVE_LU_DI_SINI">
+  <img src="https://img.shields.io/badge/📋_Teaching_Portfolio-View_Documentation-FF9900?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 
-<br><br>
+<a href="LINK_GOOGLE_DRIVE_LU_DI_SINI">
+  <img src="https://img.shields.io/badge/☁️_Cloud_Sessions-Learning_Materials-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</a>
 
-**Learning doesn't stop at collecting badges.**
+<br/><br/>
 
-I'm building projects, experimenting with cloud architecture,
-and connecting AI concepts with practical use cases.
+<sub>📌 Click badge above to view full teaching documentation & session records</sub>
 
-</div>
+<br/>
 
-<br>
-</div>
-
-<br>
-<!-- 🌟 THE INNOVATION LAB (ULTRA-AESTHETIC) 🌟 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:1a1a1a,50:2d3748,100:4a5568&height=120&section=header&text=The%20Next%20Masterpiece&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 </div>
 
 <br/>
 
+<!-- What I Believe (Closing Statement) -->
 <div align="center">
-  <a href="https://github.com/siswayangtidakmencolok-afk/aws-server">
-    <!-- GitHub Repo Pin Card (Futuristic Theme) -->
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siswayangtidakmencolok-afk&repo=aws-server&theme=tokyonight&show_owner=true&border_color=00D9FF&border_radius=15&title_color=EC4899" alt="Repo Card"/>
-  </a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Technology+becomes+meaningful;when+people+actually+get+to+build+with+it." alt="Belief" />
+
 </div>
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d3748,100:4a5568&height=80&section=footer" width="100%"/>
+
+<!-- Cinematic Header -->
 <div align="center">
-  <!-- Terminal IDE Window Holographic -->
-  <table width="800" style="border-collapse: collapse; border-radius: 12px; overflow: hidden; box-shadow: 0 0 25px rgba(0, 217, 255, 0.3);">
-    <tr bgcolor="#161b22">
-      <td colspan="2" style="padding: 10px 15px;">
-        <span style="color:#ff5f56; font-size: 16px;">⬤</span> <span style="color:#ffbd2e; font-size: 16px;">⬤</span> <span style="color:#27c93f; font-size: 16px;">⬤</span>
-        <code style="color: #8b949e; background: transparent; margin-left: 15px; font-size: 14px;">~/innovation-lab/aws-server - bash</code>
-      </td>
-    </tr>
-    <tr bgcolor="#0d1117">
-      <td width="30%" align="center" style="padding: 15px; border-right: 1px solid #30363d;">
-        <!-- Tech Hacker GIF -->
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" style="border-radius: 8px; filter: hue-rotate(190deg) brightness(1.2);" />
-      </td>
-      <td width="70%" align="left" style="padding: 15px;">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=1000&color=00D9FF&multiline=true&repeat=true&width=550&height=120&lines=~%24+./deploy_telemedicine.sh;[+]+Initializing+AWS+Serverless+Architecture...;[+]+Connecting+IoT+Smartwatch+Sensors...;[+]+Loading+Amazon+Bedrock+GenAI...;[OK]+System+Online.+Ready+to+change+the+world!" alt="Terminal Output" />
-        <br/><br/>
-        <div align="center">
-          <img src="https://img.shields.io/badge/AWS_Serverless-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-          <img src="https://img.shields.io/badge/IoT_Integration-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Amazon_Bedrock-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,30:FF9900,70:232F3E,100:1a1a1a&height=180&section=header&text=Building%20in%20the%20Cloud&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=40&desc=From%20Student%20to%20Cloud%20Engineer&descSize=18&descAlignY=65" width="100%"/>
 </div>
 
 <br/>
 
+<!-- AWS Server Repo Pin -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%9B%A0%EF%B8%8F+My+Tech+Journey" alt="My Tech Journey" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=FF9900&center=true&vCenter=true&width=800&height=55&lines=🚀+Current+Project+in+the+Cloud" alt="Current Project" />
+
+<br/><br/>
+
+<a href="https://github.com/siswayangtidakmencolok-afk/aws-server">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=siswayangtidakmencolok-afk&repo=aws-server&theme=tokyonight&show_owner=true&border_color=FF9900&border_radius=15&title_color=FF9900&icon_color=EC4899" alt="AWS Server Repo"/>
+</a>
+
 </div>
 
+<br/>
+
+<!-- Glowing Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<br/>
+
+<!-- Cloud Terminal Cinematic -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=700&height=50&lines=⚡+Inside+the+Architecture" alt="Architecture" />
+
+<br/><br/>
+
+<!-- Terminal Block (GitHub-compatible, no inline CSS that breaks) -->
+<table>
+<tr bgcolor="#161b22">
+<td>
+<code>⬤ ⬤ ⬤ &nbsp;&nbsp; ~/fhazwan/aws-server — cloud terminal</code>
+</td>
+</tr>
+<tr bgcolor="#0d1117">
+<td align="left">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1800&pause=800&color=00D9FF&multiline=true&repeat=true&width=650&height=160&lines=$+fhazwan+%40+cloud-terminal+~;→+Connecting+to+AWS+Cloud...;[✓]+EC2+Instance+Online;[✓]+S3+Bucket+Configured;[✓]+Lambda+Functions+Deployed;[✓]+Bedrock+GenAI+Loaded;[✓]+System+Ready.+Let's+build+something+real." alt="Terminal" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/AWS_Lambda-Serverless-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_S3-Storage-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_Bedrock-GenAI-8A2BE2?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/EC2-Compute-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/IoT-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- Cloud Architecture Journey (What I'm Building) -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=700&height=50&lines=🗺️+The+Architecture+I'm+Building" alt="Architecture Map" />
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="90"/>
+<br/>
+<img src="https://img.shields.io/badge/Layer_1-Frontend-00CFFF?style=for-the-badge&labelColor=1a1a1a"/>
+<br/><br/>
+<sub>React + Vite<br/>Deployed via Vercel</sub>
+</td>
+<td align="center" width="5%">
+<h2>→</h2>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="90"/>
+<br/>
+<img src="https://img.shields.io/badge/Layer_2-API_Gateway-FF9900?style=for-the-badge&labelColor=1a1a1a"/>
+<br/><br/>
+<sub>AWS Lambda<br/>Serverless Functions</sub>
+</td>
+<td align="center" width="5%">
+<h2>→</h2>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="90"/>
+<br/>
+<img src="https://img.shields.io/badge/Layer_3-AI_Brain-8B5CF6?style=for-the-badge&labelColor=1a1a1a"/>
+<br/><br/>
+<sub>Amazon Bedrock<br/>Generative AI</sub>
+</td>
+<td align="center" width="5%">
+<h2>→</h2>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="90"/>
+<br/>
+<img src="https://img.shields.io/badge/Layer_4-IoT_Edge-10B981?style=for-the-badge&labelColor=1a1a1a"/>
+<br/><br/>
+<sub>Arduino + Sensors<br/>Real-World Integration</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- Cinematic Closing -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:2d3748&height=2" width="70%"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Dari+pelajar+yang+penasaran...;Menjadi+cloud+engineer+yang+membangun.;Perjalanan+ini+baru+saja+dimulai.+☁️" alt="Closing Story" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🌱_Journey-Student_→_Cloud_Engineer-FF9900?style=for-the-badge&labelColor=1a1a1a"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -571,8 +736,6 @@ and connecting AI concepts with practical use cases.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d3748,100:4a5568&height=100&section=footer" width="100%"/>
 
 </div>
-
----
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=900&height=60&lines=%F0%9F%92%A1+My+Approach+to+Tech" alt="My Approach" />
