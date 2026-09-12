@@ -390,12 +390,6 @@ Aplikasi order makanan dengan fitur lengkap dan **open source**. Deployed di Ver
 **📁 View All Projects:** [GitHub Repositories](https://github.com/siswayangtidakmencolok-afk?tab=repositories)
 
 </div>
-<!-- ☁️ CLOUD & AI EXPERIENCE -->
-<div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=800&height=50&lines=%E2%98%81%EF%B8%8F+Cloud+%26+AI+Experience" alt="Cloud & AI Experience" />
-
-</div>
 
 <!-- Top Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -409,36 +403,41 @@ Aplikasi order makanan dengan fitur lengkap dan **open source**. Deployed di Ver
 
 <br/>
 
-<!-- Journey Narrative -->
 <div align="center">
 
 <table>
 <tr>
+
+<!-- LEFT: AWS Cert Badge (bukan random python/js icon) -->
 <td align="center" width="30%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-PREPARING-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=aws" width="100"/>
 
 <br/><br/>
 
-<sub>**AIF-C01**<br/>AWS Certified AI Practitioner<br/>In Progress</sub>
+<img src="https://img.shields.io/badge/AIF--C01-$100_Voucher_🎉-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-PREPARING-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
+
+<br/><br/>
+
+<sub>**AWS Certified**<br/>**AI Practitioner**<br/>In Progress</sub>
 
 </td>
-<td align="left" width="70%" style="padding: 20px;">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=FF9900&multiline=true&repeat=true&width=550&height=130&lines=Currently+exploring%3A;→+AI+%2F+ML+Fundamentals;→+Generative+AI+%26+Foundation+Models;→+Amazon+Bedrock+Architecture;→+Responsible+AI+%26+Security+%26+Governance" alt="Learning Path" />
+<!-- RIGHT: Learning Path -->
+<td align="left" width="70%">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=FF9900&multiline=true&repeat=true&width=550&height=130&lines=$+./start_aws_journey.sh;[✓]+Connected+to+AWS+Cloud;[→]+AI+%2F+ML+Fundamentals;[→]+Generative+AI+%26+Foundation+Models;[→]+Amazon+Bedrock+Architecture;[→]+Responsible+AI+%26+Governance" alt="Learning Path" />
 
 <br/><br/>
 
-<div>
 <img src="https://img.shields.io/badge/AI_Fundamentals-Learning-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gen_AI-Exploring-8B5CF6?style=flat-square"/>
 <img src="https://img.shields.io/badge/Bedrock-Hands_On-00CFFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Security_&_Governance-Active-10B981?style=flat-square"/>
-</div>
+<img src="https://img.shields.io/badge/Governance-Active-10B981?style=flat-square"/>
 
 </td>
 </tr>
@@ -446,71 +445,65 @@ Aplikasi order makanan dengan fitur lengkap dan **open source**. Deployed di Ver
 
 </div>
 
-<br/>
-
-<!-- Philosophy Statement -->
+<!-- Teaching Header -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:2d3748&height=2" width="70%"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=Belajar+bukan+untuk+mengumpulkan+badge.;Tapi+untuk+membangun+sesuatu+yang+bermakna." alt="Philosophy" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,30:FF9900,70:232F3E,100:1a1a1a&height=150&section=header&text=Teaching%20Cloud%20Computing&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Sagasitas%20Indonesia%20×%20AWS&descSize=20&descAlignY=68" width="100%"/>
 </div>
 
 <br/>
 
-<!-- Bottom Separator -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d3748,100:4a5568&height=80&section=footer" width="100%"/>
-
-
-<!-- Teaching Experience Section -->
+<!-- Animated Educator Title -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d3748,100:4a5568&height=130&section=header&text=Teaching%20Cloud%20Computing&fontSize=35&fontColor=FF9900&animation=twinkling&fontAlignY=50" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=900&height=55&lines=📡+Cloud+Computing+%26+Generative+AI+Educator" alt="Educator" />
 </div>
 
 <br/>
 
-<!-- Animated Title -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=900&height=55&lines=📡+Cloud+Computing+%26+Generative+AI+Educator" alt="Educator" />
-</div>
-
-<br/>
-
-<!-- Sagasitas Card -->
+<!-- Sagasitas × AWS Partnership Card -->
 <div align="center">
 
 <table>
 <tr>
+
+<!-- LEFT: Logos -->
 <td align="center" width="35%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="150"/>
+<!-- Sagasitas Logo + AWS Logo -->
+<img src="https://skillicons.dev/icons?i=aws" width="70"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/🏢-Sagasitas_Indonesia-FF9900?style=for-the-badge&labelColor=1a1a1a"/>
+<sub><b>Sagasitas Indonesia</b></sub>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Platform-AWS_Partner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/🤝-Sagasitas_×_AWS-FF9900?style=for-the-badge&labelColor=232F3E"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Mitra-AWS_Partner-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Role-Cloud_Educator-EC4899?style=flat-square"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Scope-Lintas_Indonesia-00CFFF?style=flat-square"/>
 
 </td>
-<td align="left" width="65%" style="padding: 20px;">
 
-**Apa yang gua ajarkan:**
+<!-- RIGHT: What I Teach -->
+<td align="left" width="65%">
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=FF9900&multiline=true&repeat=true&width=480&height=130&lines=→+Cloud+Computing+%26+AWS+Services;→+Generative+AI+%26+Amazon+Bedrock;→+Hands-On+Labs+%26+Real+Projects;→+Amazon+PartyRock+Workshops;→+Bukan+teori+—+tapi+implementasi" alt="Teaching Content" />
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/☁️-Cloud_Foundations-00CFFF?style=flat-square"/>
 <img src="https://img.shields.io/badge/🤖-Generative_AI-8B5CF6?style=flat-square"/>
 <img src="https://img.shields.io/badge/🧪-Hands_On_Labs-10B981?style=flat-square"/>
-<img src="https://img.shields.io/badge/🚀-Project_Based-EC4899?style=flat-square"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=00CFFF&multiline=true&repeat=true&width=480&height=100&lines=→+Mengajar+Cloud+Computing+secara+praktis;→+Learning+sessions+lintas+Indonesia;→+Bukan+hanya+teori+—+tapi+implementasi;→+Connecting+AI+to+real+use+cases" alt="Teaching Style" />
+<img src="https://img.shields.io/badge/🎓-Project_Based-EC4899?style=flat-square"/>
 
 </td>
 </tr>
@@ -520,7 +513,7 @@ Aplikasi order makanan dengan fitur lengkap dan **open source**. Deployed di Ver
 
 <br/>
 
-<!-- Teaching Credential - Badge Style + Drive Link -->
+<!-- Teaching Documentation Badge -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:2d3748&height=2" width="70%"/>
@@ -531,31 +524,25 @@ Aplikasi order makanan dengan fitur lengkap dan **open source**. Deployed di Ver
 
 <br/>
 
-<a href="LINK_GOOGLE_DRIVE_LU_DI_SINI">
+<a href="LINK_GOOGLE_DRIVE_LU">
   <img src="https://img.shields.io/badge/📋_Teaching_Portfolio-View_Documentation-FF9900?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 
-<a href="LINK_GOOGLE_DRIVE_LU_DI_SINI">
-  <img src="https://img.shields.io/badge/☁️_Cloud_Sessions-Learning_Materials-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<a href="LINK_GOOGLE_DRIVE_LU">
+  <img src="https://img.shields.io/badge/☁️_Cloud_Sessions-Learning_Materials-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
 </a>
 
 <br/><br/>
 
 <sub>📌 Click badge above to view full teaching documentation & session records</sub>
 
-<br/>
-
 </div>
 
 <br/>
 
-<!-- What I Believe (Closing Statement) -->
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Technology+becomes+meaningful;when+people+actually+get+to+build+with+it." alt="Belief" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Technology+becomes+meaningful;when+people+actually+get+to+build+with+it." alt="Belief" />
 </div>
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d3748,100:4a5568&height=80&section=footer" width="100%"/>
