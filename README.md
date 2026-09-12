@@ -528,7 +528,7 @@ Aplikasi order makanan dengan fitur lengkap dan **open source**. Deployed di Ver
   <img src="https://img.shields.io/badge/📋_Teaching_Portfolio-View_Documentation-FF9900?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 
-<a href="LINK_GOOGLE_DRIVE_LU">
+<a href="https://drive.google.com/drive/folders/1CNYrkCtuQP61mR05Vh8qi_FTiPnBFrBA?usp=sharing">
   <img src="https://img.shields.io/badge/☁️_Cloud_Sessions-Learning_Materials-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
 </a>
 
