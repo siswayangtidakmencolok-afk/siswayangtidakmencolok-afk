@@ -318,16 +318,17 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%8E%AF+Selected+Projects"
 </div>
-
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
-#### 🤖 Smart Robotics System
+**#### 🤖 Smart Robotics System**
 
 <img src="img/project1.jpg" width="100%" alt="Robot Project" style="border-radius: 8px;"/>
 
 **Tech Stack:**
+
 `Arduino` `C++` `IoT` `Sensors`
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d4f787ee-6921-4d95-85ce-86ff267588bc/deploy-status)](https://app.netlify.com/projects/globe3dsystemsolar/deploys)
@@ -337,32 +338,39 @@ Autonomous robot dengan AI navigation system yang bisa mendeteksi objek dan meng
 **🏆 Achievement:** 🥉 3rd Place Otonom Competition 2024
 
 [Lihat web demo](https://main.d23iqypw1iesnh.amplifyapp.com/)
-[View Project →](https://github.com/siswayangtidakmencolok-afk/Teacher-Absence)
+
+[View Project →](https://github.com/siswayangtidakmencolok-afk/smart-robotics-system)
 
 </td>
+
 <td width="33%" valign="top">
 
-#### 👨‍🏫 Teacher Absence Web
+**#### 🌶️ CircuLens — Circular Intelligence**
 
-<img src="img/project2.jpg" width="100%" alt="Absence" style="border-radius: 8px;"/>
+<img src="img/circulens.jpg" width="100%" alt="CircuLens Project" style="border-radius: 8px;"/>
 
 **Tech Stack:**
-`PHP` `Laravel` `Railway` `MySQL`
 
-Web application untuk sistem absensi guru dengan fitur real-time tracking dan reporting.
+`React` `TypeScript` `ONNX.js` `OpenVINO` `Supabase`
 
-**📊 Impact:** Bisa buat absensi guru dan code sudah bisa di-clone **FREE**
+AI-assisted web application untuk membantu memantau kondisi tanaman cabai, mengidentifikasi risiko visual, dan mendukung pengambilan keputusan pada tahap pertumbuhan hingga post-harvest.
 
-[🌐 Live Demo](https://teacher-absence-production.up.railway.app/) • [📁 Source Code](https://github.com/siswayangtidakmencolok-afk/Teacher-Absence)
+**🏆 Competition:** Intel Global Impact Festival 2026
+
+**🎯 Focus:** Circular Agriculture • AI • SDGs 2, 9 & 12
+
+[Lihat Project →](https://github.com/siswayangtidakmencolok-afk/CircuLens)
 
 </td>
+
 <td width="33%" valign="top">
 
-#### 📱 App Food Order (React)
+**#### 📱 App Food Order (React)**
 
 <img src="img/project3.jpg" width="100%" alt="Web App" style="border-radius: 8px;"/>
 
 **Tech Stack:**
+
 `React Native` `JavaScript` `Vercel` `React`
 
 Aplikasi order makanan dengan fitur lengkap dan **open source**. Deployed di Vercel dengan performance optimal.
@@ -372,15 +380,103 @@ Aplikasi order makanan dengan fitur lengkap dan **open source**. Deployed di Ver
 [🌐 Visit Website](https://app-pemesananmakanan.vercel.app/) • [📁 Source Code](https://github.com/siswayangtidakmencolok-afk/App_food_order-ReactNative-)
 
 </td>
+
 </tr>
 </table>
 
 **📁 View All Projects:** [GitHub Repositories](https://github.com/siswayangtidakmencolok-afk?tab=repositories)
 
 </div>
+**📁 View All Projects:** [GitHub Repositories](https://github.com/siswayangtidakmencolok-afk?tab=repositories)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+</div>
+<!-- ☁️ CLOUD & AI EXPERIENCE -->
+<div align="center">
 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=800&height=50&lines=%E2%98%81%EF%B8%8F+Cloud+%26+AI+Experience" alt="Cloud & AI Experience" />
+
+</div>
+
+<br>
+## 🎓 Cloud Computing & Generative AI Educator
+
+### ☁️ Sagasitas Indonesia
+
+**Cloud Computing & Generative AI Educator**
+
+I share practical knowledge about **Cloud Computing and Generative AI** through learning sessions with students, university students, and educators — both in-person and online.
+
+Rather than focusing only on theory, I try to make technology easier to understand through **discussion, demonstrations, and hands-on practice**.
+
+📍 Learning sessions across Indonesia
+
+**What I teach & explore:**
+
+`Cloud Computing` `AWS` `Generative AI`  
+`Amazon PartyRock` `Hands-on Practice` `AI Projects`
+
+### 💻 From Learning → Building
+
+> Technology becomes more meaningful when people don't just learn how it works,
+> but actually get the chance to build something with it.
+
+- ☁️ **Cloud Foundations** — understanding how cloud services work in practice
+- 🤖 **Generative AI** — exploring how AI can become part of real applications
+- 🧪 **Hands-on Labs** — learning by building, testing, and improving
+- 🚀 **Project-Based Learning** — turning concepts into something people can actually try
+
+📄 **Teaching Documentation:**  
+[View Documentation →](docs/sagasitas-teaching-documentation.pdf)
+
+<br>
+
+---
+
+## 📜 Certifications & Learning
+
+<div align="center">
+
+### ☁️ AWS Cloud Essentials
+
+**AWS Skill Builder · Knowledge Badge**
+
+**Cloud foundations → hands-on practice → implementation**
+
+Completed the AWS Cloud Essentials learning path and hands-on labs, building a practical understanding of how core AWS services fit together.
+
+`AWS Cloud` `Core Services` `Cloud Concepts` `Hands-on Labs`
+
+<br>
+
+### 🤖 AWS Certified AI Practitioner
+
+**AIF-C01 · Currently Preparing**
+
+The next step in my learning journey is understanding AI from more than just the application side.
+
+Currently exploring:
+
+`AI / ML Fundamentals`  
+`Generative AI` `Foundation Models`  
+`Responsible AI` `Security & Governance`
+
+<a href="https://aws.amazon.com/certification/certified-ai-practitioner/">
+  <img src="https://img.shields.io/badge/AWS-AI%20Practitioner%20%7C%20Exam%20Preparation-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS AI Practitioner Preparation"/>
+</a>
+
+<br><br>
+
+**Learning doesn't stop at collecting badges.**
+
+I'm building projects, experimenting with cloud architecture,
+and connecting AI concepts with practical use cases.
+
+</div>
+
+<br>
+</div>
+
+<br>
 <!-- 🌟 THE INNOVATION LAB (ULTRA-AESTHETIC) 🌟 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:1a1a1a,50:2d3748,100:4a5568&height=120&section=header&text=The%20Next%20Masterpiece&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
@@ -476,13 +572,6 @@ Aplikasi order makanan dengan fitur lengkap dan **open source**. Deployed di Ver
 
 </div>
 
-
-**📚 Currently Learning:**
-- Cloud Computing (AWS)
-- AI & Machine Learning
-- Advanced Spring Boot
-- System Design
-
 ---
 
 <div align="center">
@@ -539,7 +628,7 @@ Aplikasi order makanan dengan fitur lengkap dan **open source**. Deployed di Ver
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%8E%AF+2025+Goals" alt="2025 Goals" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%8E%AF+2026+Goals" alt="2026 Goals" />
 </div>
 
 <div align="center">
@@ -726,6 +815,28 @@ Punya project idea? Butuh developer? Atau sekadar mau ngobrol tentang tech? **Fe
   <img src="img/Gambar%20png_cropped.jpg" alt="Image 1" width="190" />
   <img src="img/b097d3d520be028d40386cf3121360d6_cropped.jpg" alt="Image 2" width="150" />
   <img src="img/06fbaa15b937d9f1780d59fde5e2711a_cropped.jpg" alt="Image 3" width="120" />
+</div>
+
+
+
+## 📈 Personal Finance & Market Learning
+
+<div align="center">
+
+### 💹 Stock Market Journey
+
+Learning about the stock market through a personal portfolio,
+with a focus on understanding businesses, market behavior,
+and building financial discipline.
+
+[![Stockbit Portfolio](https://img.shields.io/badge/Stockbit-Public%20Portfolio-black?style=for-the-badge)](MASUKKAN_LINK_STOCKBIT)
+
+<br>
+
+<sub>
+Public portfolio • Personal learning journey • No sensitive financial data
+</sub>
+
 </div>
 
 
